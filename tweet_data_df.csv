@@ -1,0 +1,653 @@
+,compound,date,negative,neutral,positive,source,tweet_text
+0,0.0,2018-04-02 16:59:22,0.0,1.0,0.0,nytimes,"President Trump suggested Putin visit the White House, officials say https://t.co/WcdFrTkGk1"
+1,0.2263,2018-04-02 16:48:04,0.0,0.909,0.091,nytimes,RT @nytpolitics: He's been a Muppet wrangler and the U.S. ambassador to France. Now Charles Rivkin is Hollywood's head cheerleader. https:/…
+2,0.0,2018-04-02 16:38:04,0.108,0.784,0.108,nytimes,"As vaping rises at high schools and middle schools, officials are worried e-cigarettes are creating a new generatio… https://t.co/PSMW4B4CV9"
+3,-0.0258,2018-04-02 16:28:07,0.217,0.569,0.214,nytimes,"Last fall, we shared readers' 13-word stories of romance, obsession and heartbreak. Here are some more of the thous… https://t.co/oytdtBXYvW"
+4,-0.5574,2018-04-02 16:18:05,0.159,0.841,0.0,nytimes,"Steven Bochco, the producer of “Hill Street Blues” and “NYPD Blue,” died on Sunday. His gritty police dramas change… https://t.co/TDhOqQuazn"
+5,-0.5994,2018-04-02 16:08:07,0.224,0.776,0.0,nytimes,RT @TimHerrera: Stop wasting money and finally start that budget. Here are some tips to get you going. https://t.co/ufXXY3Hozb
+6,0.0,2018-04-02 15:58:05,0.0,1.0,0.0,nytimes,The race to automate stores is underway https://t.co/NYywyTdden
+7,0.3612,2018-04-02 15:48:02,0.0,0.878,0.122,nytimes,"A 77-year-old who owns an estimated 75 guns: ""It'll go away. Like all the other times.""
+A 17-year-old who protests:… https://t.co/lLYxoinohJ"
+8,0.5574,2018-04-02 15:38:01,0.0,0.777,0.223,nytimes,Review: NBC’s “Jesus Christ Superstar” may have finally justified the recent live musical fad on network TV https://t.co/xoRihJn7JS
+9,-0.25,2018-04-02 15:28:01,0.199,0.677,0.124,nytimes,"The government of Malaysia is moving to outlaw ""fake news."" Critics say the move is intended to stifle free speech… https://t.co/aNk1o7gmHb"
+10,0.431,2018-04-02 15:18:01,0.0,0.89,0.11,nytimes,"RT @NYTScience: When he was 12, his video went viral. That's when he discovered that maybe it's not correcting bad science that audiences o…"
+11,-0.1295,2018-04-02 15:08:08,0.148,0.736,0.117,nytimes,California's governor pardoned 5 ex-convicts who were facing possible deportation. President Trump wasn't pleased. https://t.co/ZULUDAIMpN
+12,-0.34,2018-04-02 14:58:02,0.091,0.909,0.0,nytimes,RT @nytopinion: People who don’t own guns understand that some need to own one; and gun owners understand the need to keep other people saf…
+13,0.0,2018-04-02 14:48:02,0.0,1.0,0.0,nytimes,"The women’s Final Four ended on Sunday for Notre Dame just as the semifinals had on Friday, with Arike Ogunbowale h… https://t.co/CztABtxyNv"
+14,0.0,2018-04-02 14:38:02,0.0,1.0,0.0,nytimes,"""I turned and stared down the aisle where a kid who looked about 18 was aiming an AR-15 the salesman had handed him… https://t.co/lF9PGhRwVt"
+15,-0.8442,2018-04-02 14:30:32,0.412,0.588,0.0,nytimes,"Winnie Madikizela-Mandela, whose fight against apartheid was later overshadowed by scandal, has died at 81 https://t.co/1CsDdgTHI8"
+16,-0.6124,2018-04-02 14:28:01,0.179,0.821,0.0,nytimes,"RT @nytimesworld: Violence has waned in what was the bloodiest day in Gaza since the war of 2014, but both sides have been defending their…"
+17,0.1531,2018-04-02 14:18:01,0.142,0.632,0.226,nytimes,The tech industry thinks it has a solution for the problems it created. (It's blockchain.) https://t.co/QeHe17EMUf
+18,0.3182,2018-04-02 14:08:03,0.0,0.892,0.108,nytimes,A museum wasn’t sure whose head they had put on display. That’s when the FBI’s forensic scientists were called in. https://t.co/URMhm8SPD9
+19,0.7184,2018-04-02 13:58:01,0.0,0.739,0.261,nytimes,"The #MeToo movement has brought down many powerful men. As the fallout continues, it's hitting charities and instit… https://t.co/nEOXLoVy1B"
+20,0.0,2018-04-02 17:01:56,0.0,1.0,0.0,FoxNews,"First Lady Melania Trump finishes reading a book called ""You!"" to a group of children during the annual White House… https://t.co/o3fhkMUsCL"
+21,-0.8689,2018-04-02 16:44:24,0.43,0.57,0.0,FoxNews,Breaking News: 'Affluenza teen' Ethan Couch released from jail years after drunk driving wreck killed 4 https://t.co/FcL0rkkfhZ
+22,-0.8074,2018-04-02 16:28:09,0.422,0.578,0.0,FoxNews,.@alicecooper opens up about mock execution stunt that nearly killed him https://t.co/ZGaL1uasUg
+23,-0.3818,2018-04-02 16:17:21,0.214,0.659,0.126,FoxNews,Huge World War II shipwreck raised from the depths in massive salvage operation https://t.co/1KUMk3YfAE
+24,-0.2023,2018-04-02 16:15:32,0.101,0.899,0.0,FoxNews,Snow covers the field at Yankee Stadium. The @Yankees’s home opener was postponed due to weather. https://t.co/fyVpU7Xzao
+25,0.0,2018-04-02 16:07:37,0.0,1.0,0.0,FoxNews,"Trump blasts 'Justice' Department and FBI for 'slow walking' document production to Congress - via @brookefoxnews 
+https://t.co/Bds86O5kzu"
+26,-0.3818,2018-04-02 16:02:27,0.157,0.843,0.0,FoxNews,Pregnant woman upset with Disney Cruise Line after family escorted out by armed officer https://t.co/3xuR4VG2i9
+27,0.0,2018-04-02 16:00:45,0.0,1.0,0.0,FoxNews,DOW Down Triple Digits https://t.co/TXU9jNglhD
+28,0.0,2018-04-02 15:43:25,0.0,1.0,0.0,FoxNews,".@Richardafowler: “When it comes to this dreamer thing, Democrats have been willing to negotiate with the president… https://t.co/Iat1rSohC4"
+29,-0.1027,2018-04-02 15:37:21,0.104,0.896,0.0,FoxNews,"Facebook and Google are 'too big,' could be dismantled, French president warns https://t.co/hjIyiHAgTA"
+30,0.0,2018-04-02 15:27:47,0.0,1.0,0.0,FoxNews,"Trump suggested White House as potential venue for possible Putin meeting, White House says - via @brookefoxnews 
+https://t.co/USN9yJdHbL"
+31,0.0,2018-04-02 15:18:39,0.0,1.0,0.0,FoxNews,President @realDonaldTrump raises the arm of the Easter Bunny as they appear together on the South Portico of the W… https://t.co/2YbnDjMmhb
+32,0.0,2018-04-02 15:15:31,0.0,1.0,0.0,FoxNews,DOW Down 300+ Points https://t.co/cXasM43dat
+33,-0.4588,2018-04-02 15:05:20,0.158,0.842,0.0,FoxNews,"After Confederate statue controversy, cities move to tear down monuments seen as offensive to Native Americans https://t.co/GPQsIz90DB"
+34,0.0,2018-04-02 14:57:35,0.0,1.0,0.0,FoxNews,WATCH: @POTUS delivers remarks at the annual @WhiteHouse Easter Egg Roll https://t.co/ozscw0xerv
+35,0.0,2018-04-02 14:53:08,0.0,1.0,0.0,FoxNews,".@HuntsmanAbby Catches Up With New Mom and Dad, @EricTrump &amp; @LaraLeaTrump, at @WhiteHouse Easter Egg Roll https://t.co/2TEl6yGgeY"
+36,0.0,2018-04-02 14:50:54,0.0,1.0,0.0,FoxNews,.@POTUS: “The funding of our military was so important.” https://t.co/KYcWvRU1c2
+37,0.3612,2018-04-02 14:46:54,0.0,0.898,0.102,FoxNews,.@POTUS: “Our country is doing great…We have never had an economy like we have right now and we're going to make it… https://t.co/CPTam53C1g
+38,0.0,2018-04-02 14:33:48,0.0,1.0,0.0,FoxNews,.@WhiteHouse holds annual Easter Egg Roll https://t.co/39Br1zxB8s
+39,-0.6486,2018-04-02 14:29:17,0.193,0.807,0.0,FoxNews,"JUST IN: Winnie Mandela, South African anti-apartheid campaigner and former wife of Nelson Mandela, dead at 81, Fox… https://t.co/TTLPNzaVHw"
+40,0.0,2018-04-02 15:52:43,0.0,1.0,0.0,BBCWorld,Who was Winnie Mandela? https://t.co/LxB4GjqIxD
+41,-0.6124,2018-04-02 15:46:50,0.46,0.403,0.137,BBCWorld,Colombian prisoners get guard drunk and escape https://t.co/iYlqrLxR5V
+42,-0.5574,2018-04-02 15:45:05,0.159,0.841,0.0,BBCWorld,"Retired South African archbishop Desmond Tutu hails Winnie Mandela, who has died aged 81, as ""a defining symbol of… https://t.co/vMpgJrEoM3"
+43,-0.6597,2018-04-02 15:42:53,0.197,0.803,0.0,BBCWorld,"RT @BBCSteveR: Russia's Foreign Minister Sergei Lavrov tells me why current tension between Moscow &amp; the West ""is worse now than in the old…"
+44,-0.2023,2018-04-02 15:31:08,0.167,0.833,0.0,BBCWorld,"The life of Winnie Mandela, a controversial anti-apartheid political icon https://t.co/Upw6nmGpZh"
+45,0.3182,2018-04-02 14:59:26,0.0,0.635,0.365,BBCWorld,Egypt's al-Sisi secures victory https://t.co/KjyFDueV9O
+46,0.0,2018-04-02 14:25:48,0.0,1.0,0.0,BBCWorld,Malala's brief but revealing homecoming to Pakistan https://t.co/xYvMYc6S1A
+47,-0.5574,2018-04-02 14:05:41,0.184,0.816,0.0,BBCWorld,"RT @BBCBreaking: South African anti-apartheid campaigner Winnie Mandela has died aged 81, her personal assistant says https://t.co/krdVvFLY…"
+48,0.3818,2018-04-02 13:43:49,0.0,0.847,0.153,BBCWorld,"RT @BBCRosAtkins: Back in Jan 2017, my show Outside Source decided to try a self-monitoring system to increase our number of women contribu…"
+49,0.34,2018-04-02 13:36:50,0.0,0.861,0.139,BBCWorld,RT @BBCRosAtkins: This is a video the BBC’s made to show how a self-monitoring system we introduced on @BBCOS has increased the number of w…
+50,-0.34,2018-04-02 13:21:13,0.211,0.789,0.0,BBCWorld,Russian spy: Sergei Lavrov accuses West of 'children's games' https://t.co/qZMyMGJoyV
+51,0.0,2018-04-02 13:16:31,0.0,1.0,0.0,BBCWorld,German dachshund museum in Passau 'a world first' https://t.co/qqZfqy7uSL
+52,0.0,2018-04-02 12:40:05,0.0,1.0,0.0,BBCWorld,Israel scraps African migrant deportation plan https://t.co/yJLSu401ER
+53,-0.6908,2018-04-02 12:40:05,0.416,0.584,0.0,BBCWorld,Syria war: Rebels 'begin leaving last Eastern Ghouta town' https://t.co/qO8ttjlm34
+54,-0.4939,2018-04-02 12:30:43,0.314,0.686,0.0,BBCWorld,Luxury ride for stolen livestock in Uzbekistan https://t.co/daAKoXZqAi
+55,-0.7351,2018-04-02 12:23:34,0.508,0.492,0.0,BBCWorld,Four dead in massive India caste protests https://t.co/oVYWfnmx66
+56,-0.765,2018-04-02 12:11:08,0.569,0.431,0.0,BBCWorld,Tesla rebuked by death crash investigators https://t.co/9ZdTZEfuNv
+57,-0.4215,2018-04-02 11:52:27,0.259,0.741,0.0,BBCWorld,Commonwealth Games 2018: India boxing coach denies doping https://t.co/kUL9W8u7Ay
+58,0.0,2018-04-02 11:09:08,0.0,1.0,0.0,BBCWorld,Costa Rica president-elect Carlos Alvarado calls for unity https://t.co/TrW8kZzCzY
+59,0.5423,2018-04-02 09:59:06,0.0,0.72,0.28,BBCWorld,Kim Jong-un 'moved' by K-pop peace concert in Pyongyang https://t.co/tijzVprAgQ
+60,0.128,2018-04-02 16:51:49,0.0,0.87,0.13,CBSNews,Congressional Democrats raise ethics questions about Trump defense fund https://t.co/n0aG5IFtd2 https://t.co/mdN3GCZkmj
+61,0.0,2018-04-02 16:30:32,0.0,1.0,0.0,CBSNews,"Reporter: ""Mr. President, what about the DACA kids?""
+Pres. Trump: ""The Democrats have really let them down.""
+The pr… https://t.co/a7QJVCKqbQ"
+62,0.0,2018-04-02 16:15:25,0.0,1.0,0.0,CBSNews,"Winnie Madikizela-Mandela, the ex-wife of former South African leader Nelson Mandela -- and a political force and c… https://t.co/7QlgDL3gga"
+63,0.0,2018-04-02 16:01:01,0.0,1.0,0.0,CBSNews,Kremlin says President Trump invited Russian President Vladimir Putin to the White House https://t.co/mCoDVmE0C9 https://t.co/s7IkH0xepf
+64,-0.3612,2018-04-02 15:46:01,0.152,0.848,0.0,CBSNews,"President Trrump defends Sinclair Broadcast after Deadspin video shows anchors reading a script criticizing ""fake""… https://t.co/PENwsHCezG"
+65,0.4019,2018-04-02 15:30:01,0.07,0.742,0.188,CBSNews,Syria's Assad poised for another huge symbolic victory as the biggest rebel group in eastern Ghouta suburbs of Dama… https://t.co/Ooh8DPQ6DU
+66,0.3818,2018-04-02 15:15:41,0.0,0.885,0.115,CBSNews,"A 13 year old who fell into a Los Angeles sewage pipe has been found alive after 8 hours in the ""toxic environment… https://t.co/Ipjrcll50R"
+67,-0.6124,2018-04-02 15:00:02,0.385,0.615,0.0,CBSNews,Kremlin insists billionaire's arrest part of anti-corruption fight https://t.co/XSTFfqom4I https://t.co/V8dAXoW42B
+68,0.0,2018-04-02 14:53:35,0.0,1.0,0.0,CBSNews,The Easter Egg Roll -- one of the oldest White House traditions -- kicks off after remarks from @POTUS. Members of… https://t.co/VFaqLIvCip
+69,0.3327,2018-04-02 14:50:21,0.0,0.899,0.101,CBSNews,“Our military is at a level where it has never been before….The funding of our military was so important and so man… https://t.co/F8q3TCZAN4
+70,0.5423,2018-04-02 14:49:16,0.0,0.824,0.176,CBSNews,"“Our country is doing great. You look at the economy. You look at what is happening. Nothing’s ever easy, but we ha… https://t.co/vgjv53XWIz"
+71,0.302,2018-04-02 14:47:28,0.069,0.779,0.152,CBSNews,"“I want to really thank the first lady, Melania, who has done an incredible job. She worked so hard on this event a… https://t.co/4cwNWykO9Q"
+72,-0.8481,2018-04-02 14:45:01,0.535,0.465,0.0,CBSNews,Sheriff's deputy's vehicle strikes activist protesting Stephon Clark's death https://t.co/4G5Vc2Hcur https://t.co/B1P3mMZt1V
+73,0.0,2018-04-02 14:45:01,0.0,1.0,0.0,CBSNews,"Former New Jersey Gov. Chris Christie on EPA Administrator Scott Pruitt controversy: ""I don't know how you survive… https://t.co/zyzChLdVs7"
+74,0.0,2018-04-02 14:44:02,0.0,1.0,0.0,CBSNews,"WATCH: President Trump and first lady Melania Trump host the annual ""Easter Egg Roll"" at the White House… https://t.co/0TfDZpIdA3"
+75,-0.765,2018-04-02 14:33:33,0.28,0.72,0.0,CBSNews,"Madikizela-Mandela was, along with her ex-husband, a key figure in the fight to end the racist Apartheid system imp… https://t.co/4zJ1mlOk9I"
+76,-0.5574,2018-04-02 14:31:02,0.175,0.825,0.0,CBSNews,"Winnie Madikizela-Mandela, Nelson Mandela's wife, has passed away at 81. ""She died after a long illness... She succ… https://t.co/IxdZM6bG3O"
+77,0.0,2018-04-02 14:30:01,0.0,1.0,0.0,CBSNews,5 tips for Mark Zuckerberg's day in Congress: PR pros who prep CEOs for such high-stakes public grillings have stro… https://t.co/bHchCZp5Vs
+78,0.0,2018-04-02 14:15:03,0.0,1.0,0.0,CBSNews,China's tariff hikes: Here are the U.S. products getting hit https://t.co/cSiIu9dLzG https://t.co/Tv5UlYJAIn
+79,-0.5267,2018-04-02 14:00:02,0.221,0.779,0.0,CBSNews,"President Trump says he wants skilled immigrants, but raises new obstacles https://t.co/d1YKuGhlqr https://t.co/95kqlLWI6d"
+80,0.0,2018-04-02 17:02:09,0.0,1.0,0.0,CNN,"A family's SUV found at the bottom of a California cliff last week may have been deliberately driven off the road,… https://t.co/cCZRaFKWvj"
+81,-0.34,2018-04-02 16:50:27,0.112,0.888,0.0,CNN,Democratic Rep. John Garamendi on President Trump's comments that Democrats are to blame for not having a deal on D… https://t.co/ZCA2WWv3Sc
+82,-0.5267,2018-04-02 16:40:03,0.224,0.702,0.075,CNN,President Trump's attacks on Amazon are working. The company's stock sank 5% Monday after the President accused it… https://t.co/ExjxHHfLoF
+83,-0.5106,2018-04-02 16:33:36,0.202,0.798,0.0,CNN,This ancient Chinese art was at risk of becoming obsolete. Here's how Dragon scale bookbinding is being resurrected… https://t.co/2sq6WpMqbA
+84,-0.875,2018-04-02 16:23:01,0.37,0.63,0.0,CNN,"President Trump says ""our country is being stolen"" due to an influx of illegal immigration, blaming Democrats for w… https://t.co/6BEn0qGJaA"
+85,0.0,2018-04-02 16:11:06,0.0,1.0,0.0,CNN,John Oliver compares Sinclair news anchors to “members of a brainwashed cult” https://t.co/X8xGi5jwad https://t.co/aRhiapjGCh
+86,0.2732,2018-04-02 16:02:03,0.08,0.76,0.16,CNN,"RT @CNNnewsroom: ""Instead of finding logical sources for funding, they just want to cut and take away... Our kids deserve better"" says a Ke…"
+87,0.1779,2018-04-02 16:01:31,0.088,0.793,0.119,CNN,Rescuers in Southern California spotted and freed a 13-year-old boy who was stuck in a maze of drainage pipes for a… https://t.co/BWqLvxe86t
+88,0.6369,2018-04-02 15:59:09,0.0,0.682,0.318,CNN,The best travel photos of 2018 (so far) https://t.co/lhcuCYTYnn https://t.co/Qc11bBFpcg
+89,0.3818,2018-04-02 15:55:48,0.0,0.852,0.148,CNN,RT @CNNMoney: McDonald's is tripling its tuition benefits because of the new tax law https://t.co/12QVVaIKVR https://t.co/7ljjVYO8qw
+90,0.4404,2018-04-02 15:47:34,0.0,0.847,0.153,CNN,Apple is proposing 13 new emojis in an effort to better represent people with disabilities https://t.co/0LtHvSiV3b https://t.co/FlN4JhxTr5
+91,0.0,2018-04-02 15:37:15,0.0,1.0,0.0,CNN,"RT @CNNnewsroom: ""We would much rather be in our classrooms teaching today. I would much rather be with my students but... I need to be her…"
+92,0.0,2018-04-02 15:35:34,0.171,0.702,0.127,CNN,"Teachers in Oklahoma are walking out of school in protest, demanding better salaries and funding from lawmakers.
+
+W… https://t.co/NAhcoZjFw8"
+93,-0.9217,2018-04-02 15:30:12,0.437,0.563,0.0,CNN,A gun attack by the terror group Boko Haram in northeastern Nigeria on Sunday night left 18 people dead and wounded… https://t.co/Ty0jaG4CiN
+94,0.5267,2018-04-02 15:23:36,0.0,0.805,0.195,CNN,Who stands to gain if President Trump pulls the US out of Syria? https://t.co/9eoSqIuDZ3 https://t.co/1DCTPj1pT9
+95,-0.0478,2018-04-02 15:11:08,0.159,0.693,0.149,CNN,President Trump's latest dog whistle on immigration is more like a scream | Analysis by @CillizzaCNN… https://t.co/KG4262xGSB
+96,0.0,2018-04-02 15:03:56,0.0,1.0,0.0,CNN,Teachers in Kentucky are walking off the job today and holding rallies at the state Capitol over pension changes… https://t.co/t4812bM1cU
+97,0.0,2018-04-02 14:55:17,0.0,1.0,0.0,CNN,JUST IN: White House confirms President Trump and Russian President Vladimir Putin discussed the possibility of mee… https://t.co/B3bJx9FNol
+98,0.34,2018-04-02 14:50:07,0.0,0.862,0.138,CNN,She was too short to play Goofy. Then she invented Spanx. Now she's a billionaire. https://t.co/8UBc6YV2IU https://t.co/Bh70SauZNt
+99,0.0,2018-04-02 14:43:10,0.0,1.0,0.0,CNN,President Trump and first lady Melania Trump are hosting the 140th annual White House Easter Egg Roll… https://t.co/5T3U6IUatM
+100,0.128,2018-04-02 16:51:49,0.0,0.87,0.13,CBSNews,Congressional Democrats raise ethics questions about Trump defense fund https://t.co/n0aG5IFtd2 https://t.co/mdN3GCZkmj
+101,0.0,2018-04-02 16:30:32,0.0,1.0,0.0,CBSNews,"Reporter: ""Mr. President, what about the DACA kids?""
+Pres. Trump: ""The Democrats have really let them down.""
+The pr… https://t.co/a7QJVCKqbQ"
+102,0.0,2018-04-02 16:15:25,0.0,1.0,0.0,CBSNews,"Winnie Madikizela-Mandela, the ex-wife of former South African leader Nelson Mandela -- and a political force and c… https://t.co/7QlgDL3gga"
+103,0.0,2018-04-02 16:01:01,0.0,1.0,0.0,CBSNews,Kremlin says President Trump invited Russian President Vladimir Putin to the White House https://t.co/mCoDVmE0C9 https://t.co/s7IkH0xepf
+104,-0.3612,2018-04-02 15:46:01,0.152,0.848,0.0,CBSNews,"President Trrump defends Sinclair Broadcast after Deadspin video shows anchors reading a script criticizing ""fake""… https://t.co/PENwsHCezG"
+105,0.4019,2018-04-02 15:30:01,0.07,0.742,0.188,CBSNews,Syria's Assad poised for another huge symbolic victory as the biggest rebel group in eastern Ghouta suburbs of Dama… https://t.co/Ooh8DPQ6DU
+106,0.3818,2018-04-02 15:15:41,0.0,0.885,0.115,CBSNews,"A 13 year old who fell into a Los Angeles sewage pipe has been found alive after 8 hours in the ""toxic environment… https://t.co/Ipjrcll50R"
+107,-0.6124,2018-04-02 15:00:02,0.385,0.615,0.0,CBSNews,Kremlin insists billionaire's arrest part of anti-corruption fight https://t.co/XSTFfqom4I https://t.co/V8dAXoW42B
+108,0.0,2018-04-02 14:53:35,0.0,1.0,0.0,CBSNews,The Easter Egg Roll -- one of the oldest White House traditions -- kicks off after remarks from @POTUS. Members of… https://t.co/VFaqLIvCip
+109,0.3327,2018-04-02 14:50:21,0.0,0.899,0.101,CBSNews,“Our military is at a level where it has never been before….The funding of our military was so important and so man… https://t.co/F8q3TCZAN4
+110,0.5423,2018-04-02 14:49:16,0.0,0.824,0.176,CBSNews,"“Our country is doing great. You look at the economy. You look at what is happening. Nothing’s ever easy, but we ha… https://t.co/vgjv53XWIz"
+111,0.302,2018-04-02 14:47:28,0.069,0.779,0.152,CBSNews,"“I want to really thank the first lady, Melania, who has done an incredible job. She worked so hard on this event a… https://t.co/4cwNWykO9Q"
+112,-0.8481,2018-04-02 14:45:01,0.535,0.465,0.0,CBSNews,Sheriff's deputy's vehicle strikes activist protesting Stephon Clark's death https://t.co/4G5Vc2Hcur https://t.co/B1P3mMZt1V
+113,0.0,2018-04-02 14:45:01,0.0,1.0,0.0,CBSNews,"Former New Jersey Gov. Chris Christie on EPA Administrator Scott Pruitt controversy: ""I don't know how you survive… https://t.co/zyzChLdVs7"
+114,0.0,2018-04-02 14:44:02,0.0,1.0,0.0,CBSNews,"WATCH: President Trump and first lady Melania Trump host the annual ""Easter Egg Roll"" at the White House… https://t.co/0TfDZpIdA3"
+115,-0.765,2018-04-02 14:33:33,0.28,0.72,0.0,CBSNews,"Madikizela-Mandela was, along with her ex-husband, a key figure in the fight to end the racist Apartheid system imp… https://t.co/4zJ1mlOk9I"
+116,-0.5574,2018-04-02 14:31:02,0.175,0.825,0.0,CBSNews,"Winnie Madikizela-Mandela, Nelson Mandela's wife, has passed away at 81. ""She died after a long illness... She succ… https://t.co/IxdZM6bG3O"
+117,0.0,2018-04-02 14:30:01,0.0,1.0,0.0,CBSNews,5 tips for Mark Zuckerberg's day in Congress: PR pros who prep CEOs for such high-stakes public grillings have stro… https://t.co/bHchCZp5Vs
+118,0.0,2018-04-02 14:15:03,0.0,1.0,0.0,CBSNews,China's tariff hikes: Here are the U.S. products getting hit https://t.co/cSiIu9dLzG https://t.co/Tv5UlYJAIn
+119,-0.5267,2018-04-02 14:00:02,0.221,0.779,0.0,CBSNews,"President Trump says he wants skilled immigrants, but raises new obstacles https://t.co/d1YKuGhlqr https://t.co/95kqlLWI6d"
+120,0.0,2018-04-02 16:59:22,0.0,1.0,0.0,nytimes,"President Trump suggested Putin visit the White House, officials say https://t.co/WcdFrTkGk1"
+121,0.2263,2018-04-02 16:48:04,0.0,0.909,0.091,nytimes,RT @nytpolitics: He's been a Muppet wrangler and the U.S. ambassador to France. Now Charles Rivkin is Hollywood's head cheerleader. https:/…
+122,0.0,2018-04-02 16:38:04,0.108,0.784,0.108,nytimes,"As vaping rises at high schools and middle schools, officials are worried e-cigarettes are creating a new generatio… https://t.co/PSMW4B4CV9"
+123,-0.0258,2018-04-02 16:28:07,0.217,0.569,0.214,nytimes,"Last fall, we shared readers' 13-word stories of romance, obsession and heartbreak. Here are some more of the thous… https://t.co/oytdtBXYvW"
+124,-0.5574,2018-04-02 16:18:05,0.159,0.841,0.0,nytimes,"Steven Bochco, the producer of “Hill Street Blues” and “NYPD Blue,” died on Sunday. His gritty police dramas change… https://t.co/TDhOqQuazn"
+125,-0.5994,2018-04-02 16:08:07,0.224,0.776,0.0,nytimes,RT @TimHerrera: Stop wasting money and finally start that budget. Here are some tips to get you going. https://t.co/ufXXY3Hozb
+126,0.0,2018-04-02 15:58:05,0.0,1.0,0.0,nytimes,The race to automate stores is underway https://t.co/NYywyTdden
+127,0.3612,2018-04-02 15:48:02,0.0,0.878,0.122,nytimes,"A 77-year-old who owns an estimated 75 guns: ""It'll go away. Like all the other times.""
+A 17-year-old who protests:… https://t.co/lLYxoinohJ"
+128,0.5574,2018-04-02 15:38:01,0.0,0.777,0.223,nytimes,Review: NBC’s “Jesus Christ Superstar” may have finally justified the recent live musical fad on network TV https://t.co/xoRihJn7JS
+129,-0.25,2018-04-02 15:28:01,0.199,0.677,0.124,nytimes,"The government of Malaysia is moving to outlaw ""fake news."" Critics say the move is intended to stifle free speech… https://t.co/aNk1o7gmHb"
+130,0.431,2018-04-02 15:18:01,0.0,0.89,0.11,nytimes,"RT @NYTScience: When he was 12, his video went viral. That's when he discovered that maybe it's not correcting bad science that audiences o…"
+131,-0.1295,2018-04-02 15:08:08,0.148,0.736,0.117,nytimes,California's governor pardoned 5 ex-convicts who were facing possible deportation. President Trump wasn't pleased. https://t.co/ZULUDAIMpN
+132,-0.34,2018-04-02 14:58:02,0.091,0.909,0.0,nytimes,RT @nytopinion: People who don’t own guns understand that some need to own one; and gun owners understand the need to keep other people saf…
+133,0.0,2018-04-02 14:48:02,0.0,1.0,0.0,nytimes,"The women’s Final Four ended on Sunday for Notre Dame just as the semifinals had on Friday, with Arike Ogunbowale h… https://t.co/CztABtxyNv"
+134,0.0,2018-04-02 14:38:02,0.0,1.0,0.0,nytimes,"""I turned and stared down the aisle where a kid who looked about 18 was aiming an AR-15 the salesman had handed him… https://t.co/lF9PGhRwVt"
+135,-0.8442,2018-04-02 14:30:32,0.412,0.588,0.0,nytimes,"Winnie Madikizela-Mandela, whose fight against apartheid was later overshadowed by scandal, has died at 81 https://t.co/1CsDdgTHI8"
+136,-0.6124,2018-04-02 14:28:01,0.179,0.821,0.0,nytimes,"RT @nytimesworld: Violence has waned in what was the bloodiest day in Gaza since the war of 2014, but both sides have been defending their…"
+137,0.1531,2018-04-02 14:18:01,0.142,0.632,0.226,nytimes,The tech industry thinks it has a solution for the problems it created. (It's blockchain.) https://t.co/QeHe17EMUf
+138,0.3182,2018-04-02 14:08:03,0.0,0.892,0.108,nytimes,A museum wasn’t sure whose head they had put on display. That’s when the FBI’s forensic scientists were called in. https://t.co/URMhm8SPD9
+139,0.7184,2018-04-02 13:58:01,0.0,0.739,0.261,nytimes,"The #MeToo movement has brought down many powerful men. As the fallout continues, it's hitting charities and instit… https://t.co/nEOXLoVy1B"
+140,0.0,2018-04-02 17:01:56,0.0,1.0,0.0,FoxNews,"First Lady Melania Trump finishes reading a book called ""You!"" to a group of children during the annual White House… https://t.co/o3fhkMUsCL"
+141,-0.8689,2018-04-02 16:44:24,0.43,0.57,0.0,FoxNews,Breaking News: 'Affluenza teen' Ethan Couch released from jail years after drunk driving wreck killed 4 https://t.co/FcL0rkkfhZ
+142,-0.8074,2018-04-02 16:28:09,0.422,0.578,0.0,FoxNews,.@alicecooper opens up about mock execution stunt that nearly killed him https://t.co/ZGaL1uasUg
+143,-0.3818,2018-04-02 16:17:21,0.214,0.659,0.126,FoxNews,Huge World War II shipwreck raised from the depths in massive salvage operation https://t.co/1KUMk3YfAE
+144,-0.2023,2018-04-02 16:15:32,0.101,0.899,0.0,FoxNews,Snow covers the field at Yankee Stadium. The @Yankees’s home opener was postponed due to weather. https://t.co/fyVpU7Xzao
+145,0.0,2018-04-02 16:07:37,0.0,1.0,0.0,FoxNews,"Trump blasts 'Justice' Department and FBI for 'slow walking' document production to Congress - via @brookefoxnews 
+https://t.co/Bds86O5kzu"
+146,-0.3818,2018-04-02 16:02:27,0.157,0.843,0.0,FoxNews,Pregnant woman upset with Disney Cruise Line after family escorted out by armed officer https://t.co/3xuR4VG2i9
+147,0.0,2018-04-02 16:00:45,0.0,1.0,0.0,FoxNews,DOW Down Triple Digits https://t.co/TXU9jNglhD
+148,0.0,2018-04-02 15:43:25,0.0,1.0,0.0,FoxNews,".@Richardafowler: “When it comes to this dreamer thing, Democrats have been willing to negotiate with the president… https://t.co/Iat1rSohC4"
+149,-0.1027,2018-04-02 15:37:21,0.104,0.896,0.0,FoxNews,"Facebook and Google are 'too big,' could be dismantled, French president warns https://t.co/hjIyiHAgTA"
+150,0.0,2018-04-02 15:27:47,0.0,1.0,0.0,FoxNews,"Trump suggested White House as potential venue for possible Putin meeting, White House says - via @brookefoxnews 
+https://t.co/USN9yJdHbL"
+151,0.0,2018-04-02 15:18:39,0.0,1.0,0.0,FoxNews,President @realDonaldTrump raises the arm of the Easter Bunny as they appear together on the South Portico of the W… https://t.co/2YbnDjMmhb
+152,0.0,2018-04-02 15:15:31,0.0,1.0,0.0,FoxNews,DOW Down 300+ Points https://t.co/cXasM43dat
+153,-0.4588,2018-04-02 15:05:20,0.158,0.842,0.0,FoxNews,"After Confederate statue controversy, cities move to tear down monuments seen as offensive to Native Americans https://t.co/GPQsIz90DB"
+154,0.0,2018-04-02 14:57:35,0.0,1.0,0.0,FoxNews,WATCH: @POTUS delivers remarks at the annual @WhiteHouse Easter Egg Roll https://t.co/ozscw0xerv
+155,0.0,2018-04-02 14:53:08,0.0,1.0,0.0,FoxNews,".@HuntsmanAbby Catches Up With New Mom and Dad, @EricTrump &amp; @LaraLeaTrump, at @WhiteHouse Easter Egg Roll https://t.co/2TEl6yGgeY"
+156,0.0,2018-04-02 14:50:54,0.0,1.0,0.0,FoxNews,.@POTUS: “The funding of our military was so important.” https://t.co/KYcWvRU1c2
+157,0.3612,2018-04-02 14:46:54,0.0,0.898,0.102,FoxNews,.@POTUS: “Our country is doing great…We have never had an economy like we have right now and we're going to make it… https://t.co/CPTam53C1g
+158,0.0,2018-04-02 14:33:48,0.0,1.0,0.0,FoxNews,.@WhiteHouse holds annual Easter Egg Roll https://t.co/39Br1zxB8s
+159,-0.6486,2018-04-02 14:29:17,0.193,0.807,0.0,FoxNews,"JUST IN: Winnie Mandela, South African anti-apartheid campaigner and former wife of Nelson Mandela, dead at 81, Fox… https://t.co/TTLPNzaVHw"
+160,0.0,2018-04-02 15:52:43,0.0,1.0,0.0,BBCWorld,Who was Winnie Mandela? https://t.co/LxB4GjqIxD
+161,-0.6124,2018-04-02 15:46:50,0.46,0.403,0.137,BBCWorld,Colombian prisoners get guard drunk and escape https://t.co/iYlqrLxR5V
+162,-0.5574,2018-04-02 15:45:05,0.159,0.841,0.0,BBCWorld,"Retired South African archbishop Desmond Tutu hails Winnie Mandela, who has died aged 81, as ""a defining symbol of… https://t.co/vMpgJrEoM3"
+163,-0.6597,2018-04-02 15:42:53,0.197,0.803,0.0,BBCWorld,"RT @BBCSteveR: Russia's Foreign Minister Sergei Lavrov tells me why current tension between Moscow &amp; the West ""is worse now than in the old…"
+164,-0.2023,2018-04-02 15:31:08,0.167,0.833,0.0,BBCWorld,"The life of Winnie Mandela, a controversial anti-apartheid political icon https://t.co/Upw6nmGpZh"
+165,0.3182,2018-04-02 14:59:26,0.0,0.635,0.365,BBCWorld,Egypt's al-Sisi secures victory https://t.co/KjyFDueV9O
+166,0.0,2018-04-02 14:25:48,0.0,1.0,0.0,BBCWorld,Malala's brief but revealing homecoming to Pakistan https://t.co/xYvMYc6S1A
+167,-0.5574,2018-04-02 14:05:41,0.184,0.816,0.0,BBCWorld,"RT @BBCBreaking: South African anti-apartheid campaigner Winnie Mandela has died aged 81, her personal assistant says https://t.co/krdVvFLY…"
+168,0.3818,2018-04-02 13:43:49,0.0,0.847,0.153,BBCWorld,"RT @BBCRosAtkins: Back in Jan 2017, my show Outside Source decided to try a self-monitoring system to increase our number of women contribu…"
+169,0.34,2018-04-02 13:36:50,0.0,0.861,0.139,BBCWorld,RT @BBCRosAtkins: This is a video the BBC’s made to show how a self-monitoring system we introduced on @BBCOS has increased the number of w…
+170,-0.34,2018-04-02 13:21:13,0.211,0.789,0.0,BBCWorld,Russian spy: Sergei Lavrov accuses West of 'children's games' https://t.co/qZMyMGJoyV
+171,0.0,2018-04-02 13:16:31,0.0,1.0,0.0,BBCWorld,German dachshund museum in Passau 'a world first' https://t.co/qqZfqy7uSL
+172,0.0,2018-04-02 12:40:05,0.0,1.0,0.0,BBCWorld,Israel scraps African migrant deportation plan https://t.co/yJLSu401ER
+173,-0.6908,2018-04-02 12:40:05,0.416,0.584,0.0,BBCWorld,Syria war: Rebels 'begin leaving last Eastern Ghouta town' https://t.co/qO8ttjlm34
+174,-0.4939,2018-04-02 12:30:43,0.314,0.686,0.0,BBCWorld,Luxury ride for stolen livestock in Uzbekistan https://t.co/daAKoXZqAi
+175,-0.7351,2018-04-02 12:23:34,0.508,0.492,0.0,BBCWorld,Four dead in massive India caste protests https://t.co/oVYWfnmx66
+176,-0.765,2018-04-02 12:11:08,0.569,0.431,0.0,BBCWorld,Tesla rebuked by death crash investigators https://t.co/9ZdTZEfuNv
+177,-0.4215,2018-04-02 11:52:27,0.259,0.741,0.0,BBCWorld,Commonwealth Games 2018: India boxing coach denies doping https://t.co/kUL9W8u7Ay
+178,0.0,2018-04-02 11:09:08,0.0,1.0,0.0,BBCWorld,Costa Rica president-elect Carlos Alvarado calls for unity https://t.co/TrW8kZzCzY
+179,0.5423,2018-04-02 09:59:06,0.0,0.72,0.28,BBCWorld,Kim Jong-un 'moved' by K-pop peace concert in Pyongyang https://t.co/tijzVprAgQ
+180,0.128,2018-04-02 16:51:49,0.0,0.87,0.13,CBSNews,Congressional Democrats raise ethics questions about Trump defense fund https://t.co/n0aG5IFtd2 https://t.co/mdN3GCZkmj
+181,0.0,2018-04-02 16:30:32,0.0,1.0,0.0,CBSNews,"Reporter: ""Mr. President, what about the DACA kids?""
+Pres. Trump: ""The Democrats have really let them down.""
+The pr… https://t.co/a7QJVCKqbQ"
+182,0.0,2018-04-02 16:15:25,0.0,1.0,0.0,CBSNews,"Winnie Madikizela-Mandela, the ex-wife of former South African leader Nelson Mandela -- and a political force and c… https://t.co/7QlgDL3gga"
+183,0.0,2018-04-02 16:01:01,0.0,1.0,0.0,CBSNews,Kremlin says President Trump invited Russian President Vladimir Putin to the White House https://t.co/mCoDVmE0C9 https://t.co/s7IkH0xepf
+184,-0.3612,2018-04-02 15:46:01,0.152,0.848,0.0,CBSNews,"President Trrump defends Sinclair Broadcast after Deadspin video shows anchors reading a script criticizing ""fake""… https://t.co/PENwsHCezG"
+185,0.4019,2018-04-02 15:30:01,0.07,0.742,0.188,CBSNews,Syria's Assad poised for another huge symbolic victory as the biggest rebel group in eastern Ghouta suburbs of Dama… https://t.co/Ooh8DPQ6DU
+186,0.3818,2018-04-02 15:15:41,0.0,0.885,0.115,CBSNews,"A 13 year old who fell into a Los Angeles sewage pipe has been found alive after 8 hours in the ""toxic environment… https://t.co/Ipjrcll50R"
+187,-0.6124,2018-04-02 15:00:02,0.385,0.615,0.0,CBSNews,Kremlin insists billionaire's arrest part of anti-corruption fight https://t.co/XSTFfqom4I https://t.co/V8dAXoW42B
+188,0.0,2018-04-02 14:53:35,0.0,1.0,0.0,CBSNews,The Easter Egg Roll -- one of the oldest White House traditions -- kicks off after remarks from @POTUS. Members of… https://t.co/VFaqLIvCip
+189,0.3327,2018-04-02 14:50:21,0.0,0.899,0.101,CBSNews,“Our military is at a level where it has never been before….The funding of our military was so important and so man… https://t.co/F8q3TCZAN4
+190,0.5423,2018-04-02 14:49:16,0.0,0.824,0.176,CBSNews,"“Our country is doing great. You look at the economy. You look at what is happening. Nothing’s ever easy, but we ha… https://t.co/vgjv53XWIz"
+191,0.302,2018-04-02 14:47:28,0.069,0.779,0.152,CBSNews,"“I want to really thank the first lady, Melania, who has done an incredible job. She worked so hard on this event a… https://t.co/4cwNWykO9Q"
+192,-0.8481,2018-04-02 14:45:01,0.535,0.465,0.0,CBSNews,Sheriff's deputy's vehicle strikes activist protesting Stephon Clark's death https://t.co/4G5Vc2Hcur https://t.co/B1P3mMZt1V
+193,0.0,2018-04-02 14:45:01,0.0,1.0,0.0,CBSNews,"Former New Jersey Gov. Chris Christie on EPA Administrator Scott Pruitt controversy: ""I don't know how you survive… https://t.co/zyzChLdVs7"
+194,0.0,2018-04-02 14:44:02,0.0,1.0,0.0,CBSNews,"WATCH: President Trump and first lady Melania Trump host the annual ""Easter Egg Roll"" at the White House… https://t.co/0TfDZpIdA3"
+195,-0.765,2018-04-02 14:33:33,0.28,0.72,0.0,CBSNews,"Madikizela-Mandela was, along with her ex-husband, a key figure in the fight to end the racist Apartheid system imp… https://t.co/4zJ1mlOk9I"
+196,-0.5574,2018-04-02 14:31:02,0.175,0.825,0.0,CBSNews,"Winnie Madikizela-Mandela, Nelson Mandela's wife, has passed away at 81. ""She died after a long illness... She succ… https://t.co/IxdZM6bG3O"
+197,0.0,2018-04-02 14:30:01,0.0,1.0,0.0,CBSNews,5 tips for Mark Zuckerberg's day in Congress: PR pros who prep CEOs for such high-stakes public grillings have stro… https://t.co/bHchCZp5Vs
+198,0.0,2018-04-02 14:15:03,0.0,1.0,0.0,CBSNews,China's tariff hikes: Here are the U.S. products getting hit https://t.co/cSiIu9dLzG https://t.co/Tv5UlYJAIn
+199,-0.5267,2018-04-02 14:00:02,0.221,0.779,0.0,CBSNews,"President Trump says he wants skilled immigrants, but raises new obstacles https://t.co/d1YKuGhlqr https://t.co/95kqlLWI6d"
+200,0.0,2018-04-02 17:02:09,0.0,1.0,0.0,CNN,"A family's SUV found at the bottom of a California cliff last week may have been deliberately driven off the road,… https://t.co/cCZRaFKWvj"
+201,-0.34,2018-04-02 16:50:27,0.112,0.888,0.0,CNN,Democratic Rep. John Garamendi on President Trump's comments that Democrats are to blame for not having a deal on D… https://t.co/ZCA2WWv3Sc
+202,-0.5267,2018-04-02 16:40:03,0.224,0.702,0.075,CNN,President Trump's attacks on Amazon are working. The company's stock sank 5% Monday after the President accused it… https://t.co/ExjxHHfLoF
+203,-0.5106,2018-04-02 16:33:36,0.202,0.798,0.0,CNN,This ancient Chinese art was at risk of becoming obsolete. Here's how Dragon scale bookbinding is being resurrected… https://t.co/2sq6WpMqbA
+204,-0.875,2018-04-02 16:23:01,0.37,0.63,0.0,CNN,"President Trump says ""our country is being stolen"" due to an influx of illegal immigration, blaming Democrats for w… https://t.co/6BEn0qGJaA"
+205,0.0,2018-04-02 16:11:06,0.0,1.0,0.0,CNN,John Oliver compares Sinclair news anchors to “members of a brainwashed cult” https://t.co/X8xGi5jwad https://t.co/aRhiapjGCh
+206,0.2732,2018-04-02 16:02:03,0.08,0.76,0.16,CNN,"RT @CNNnewsroom: ""Instead of finding logical sources for funding, they just want to cut and take away... Our kids deserve better"" says a Ke…"
+207,0.1779,2018-04-02 16:01:31,0.088,0.793,0.119,CNN,Rescuers in Southern California spotted and freed a 13-year-old boy who was stuck in a maze of drainage pipes for a… https://t.co/BWqLvxe86t
+208,0.6369,2018-04-02 15:59:09,0.0,0.682,0.318,CNN,The best travel photos of 2018 (so far) https://t.co/lhcuCYTYnn https://t.co/Qc11bBFpcg
+209,0.3818,2018-04-02 15:55:48,0.0,0.852,0.148,CNN,RT @CNNMoney: McDonald's is tripling its tuition benefits because of the new tax law https://t.co/12QVVaIKVR https://t.co/7ljjVYO8qw
+210,0.4404,2018-04-02 15:47:34,0.0,0.847,0.153,CNN,Apple is proposing 13 new emojis in an effort to better represent people with disabilities https://t.co/0LtHvSiV3b https://t.co/FlN4JhxTr5
+211,0.0,2018-04-02 15:37:15,0.0,1.0,0.0,CNN,"RT @CNNnewsroom: ""We would much rather be in our classrooms teaching today. I would much rather be with my students but... I need to be her…"
+212,0.0,2018-04-02 15:35:34,0.171,0.702,0.127,CNN,"Teachers in Oklahoma are walking out of school in protest, demanding better salaries and funding from lawmakers.
+
+W… https://t.co/NAhcoZjFw8"
+213,-0.9217,2018-04-02 15:30:12,0.437,0.563,0.0,CNN,A gun attack by the terror group Boko Haram in northeastern Nigeria on Sunday night left 18 people dead and wounded… https://t.co/Ty0jaG4CiN
+214,0.5267,2018-04-02 15:23:36,0.0,0.805,0.195,CNN,Who stands to gain if President Trump pulls the US out of Syria? https://t.co/9eoSqIuDZ3 https://t.co/1DCTPj1pT9
+215,-0.0478,2018-04-02 15:11:08,0.159,0.693,0.149,CNN,President Trump's latest dog whistle on immigration is more like a scream | Analysis by @CillizzaCNN… https://t.co/KG4262xGSB
+216,0.0,2018-04-02 15:03:56,0.0,1.0,0.0,CNN,Teachers in Kentucky are walking off the job today and holding rallies at the state Capitol over pension changes… https://t.co/t4812bM1cU
+217,0.0,2018-04-02 14:55:17,0.0,1.0,0.0,CNN,JUST IN: White House confirms President Trump and Russian President Vladimir Putin discussed the possibility of mee… https://t.co/B3bJx9FNol
+218,0.34,2018-04-02 14:50:07,0.0,0.862,0.138,CNN,She was too short to play Goofy. Then she invented Spanx. Now she's a billionaire. https://t.co/8UBc6YV2IU https://t.co/Bh70SauZNt
+219,0.0,2018-04-02 14:43:10,0.0,1.0,0.0,CNN,President Trump and first lady Melania Trump are hosting the 140th annual White House Easter Egg Roll… https://t.co/5T3U6IUatM
+220,0.128,2018-04-02 16:51:49,0.0,0.87,0.13,CBSNews,Congressional Democrats raise ethics questions about Trump defense fund https://t.co/n0aG5IFtd2 https://t.co/mdN3GCZkmj
+221,0.0,2018-04-02 16:30:32,0.0,1.0,0.0,CBSNews,"Reporter: ""Mr. President, what about the DACA kids?""
+Pres. Trump: ""The Democrats have really let them down.""
+The pr… https://t.co/a7QJVCKqbQ"
+222,0.0,2018-04-02 16:15:25,0.0,1.0,0.0,CBSNews,"Winnie Madikizela-Mandela, the ex-wife of former South African leader Nelson Mandela -- and a political force and c… https://t.co/7QlgDL3gga"
+223,0.0,2018-04-02 16:01:01,0.0,1.0,0.0,CBSNews,Kremlin says President Trump invited Russian President Vladimir Putin to the White House https://t.co/mCoDVmE0C9 https://t.co/s7IkH0xepf
+224,-0.3612,2018-04-02 15:46:01,0.152,0.848,0.0,CBSNews,"President Trrump defends Sinclair Broadcast after Deadspin video shows anchors reading a script criticizing ""fake""… https://t.co/PENwsHCezG"
+225,0.4019,2018-04-02 15:30:01,0.07,0.742,0.188,CBSNews,Syria's Assad poised for another huge symbolic victory as the biggest rebel group in eastern Ghouta suburbs of Dama… https://t.co/Ooh8DPQ6DU
+226,0.3818,2018-04-02 15:15:41,0.0,0.885,0.115,CBSNews,"A 13 year old who fell into a Los Angeles sewage pipe has been found alive after 8 hours in the ""toxic environment… https://t.co/Ipjrcll50R"
+227,-0.6124,2018-04-02 15:00:02,0.385,0.615,0.0,CBSNews,Kremlin insists billionaire's arrest part of anti-corruption fight https://t.co/XSTFfqom4I https://t.co/V8dAXoW42B
+228,0.0,2018-04-02 14:53:35,0.0,1.0,0.0,CBSNews,The Easter Egg Roll -- one of the oldest White House traditions -- kicks off after remarks from @POTUS. Members of… https://t.co/VFaqLIvCip
+229,0.3327,2018-04-02 14:50:21,0.0,0.899,0.101,CBSNews,“Our military is at a level where it has never been before….The funding of our military was so important and so man… https://t.co/F8q3TCZAN4
+230,0.5423,2018-04-02 14:49:16,0.0,0.824,0.176,CBSNews,"“Our country is doing great. You look at the economy. You look at what is happening. Nothing’s ever easy, but we ha… https://t.co/vgjv53XWIz"
+231,0.302,2018-04-02 14:47:28,0.069,0.779,0.152,CBSNews,"“I want to really thank the first lady, Melania, who has done an incredible job. She worked so hard on this event a… https://t.co/4cwNWykO9Q"
+232,-0.8481,2018-04-02 14:45:01,0.535,0.465,0.0,CBSNews,Sheriff's deputy's vehicle strikes activist protesting Stephon Clark's death https://t.co/4G5Vc2Hcur https://t.co/B1P3mMZt1V
+233,0.0,2018-04-02 14:45:01,0.0,1.0,0.0,CBSNews,"Former New Jersey Gov. Chris Christie on EPA Administrator Scott Pruitt controversy: ""I don't know how you survive… https://t.co/zyzChLdVs7"
+234,0.0,2018-04-02 14:44:02,0.0,1.0,0.0,CBSNews,"WATCH: President Trump and first lady Melania Trump host the annual ""Easter Egg Roll"" at the White House… https://t.co/0TfDZpIdA3"
+235,-0.765,2018-04-02 14:33:33,0.28,0.72,0.0,CBSNews,"Madikizela-Mandela was, along with her ex-husband, a key figure in the fight to end the racist Apartheid system imp… https://t.co/4zJ1mlOk9I"
+236,-0.5574,2018-04-02 14:31:02,0.175,0.825,0.0,CBSNews,"Winnie Madikizela-Mandela, Nelson Mandela's wife, has passed away at 81. ""She died after a long illness... She succ… https://t.co/IxdZM6bG3O"
+237,0.0,2018-04-02 14:30:01,0.0,1.0,0.0,CBSNews,5 tips for Mark Zuckerberg's day in Congress: PR pros who prep CEOs for such high-stakes public grillings have stro… https://t.co/bHchCZp5Vs
+238,0.0,2018-04-02 14:15:03,0.0,1.0,0.0,CBSNews,China's tariff hikes: Here are the U.S. products getting hit https://t.co/cSiIu9dLzG https://t.co/Tv5UlYJAIn
+239,-0.5267,2018-04-02 14:00:02,0.221,0.779,0.0,CBSNews,"President Trump says he wants skilled immigrants, but raises new obstacles https://t.co/d1YKuGhlqr https://t.co/95kqlLWI6d"
+240,-0.4019,2018-04-02 13:48:05,0.13,0.87,0.0,nytimes,The jobs these companies offer are in out-of-way places. The work is low-paid and disagreeable. And native-born Ame… https://t.co/hjHTlixNw2
+241,0.1779,2018-04-02 13:40:56,0.0,0.904,0.096,nytimes,"RT @nytimes: Fact Check: The Facts Behind Trump’s Tweet on Amazon, Taxes and the Postal Service https://t.co/eDFR9JldgC"
+242,0.0,2018-04-02 13:38:05,0.0,1.0,0.0,nytimes,He's new to New York and has never worked in the city's public school system. Here's what the new chancellor of pub… https://t.co/wp8saMunjv
+243,0.3818,2018-04-02 13:28:04,0.0,0.843,0.157,nytimes,"President Trump tweeted that DACA, a plan to protect young immigrants from deportation, is ""dead"" https://t.co/9YDJXm5zxj"
+244,0.0,2018-04-02 13:18:02,0.0,1.0,0.0,nytimes,A Chinese space station the size of a school bus re-entered the Earth's atmosphere on Sunday night https://t.co/dPzgN7upKb
+245,-0.6249,2018-04-02 13:08:03,0.231,0.769,0.0,nytimes,"People are increasingly calling for boycotts of the big tech companies. The problem is that Facebook, Apple, Amazon… https://t.co/mu3o1ABVUe"
+246,-0.1786,2018-04-02 12:58:05,0.078,0.922,0.0,nytimes,"RT @nytimesworld: Unraveling a police state is never easy, but Uzbekistan is taking the first steps, at a time when even once-proudly democ…"
+247,0.0,2018-04-02 12:53:04,0.0,1.0,0.0,nytimes,China just hit back at President Trump’s tariffs on steel and aluminum. The country placed tariffs on pork and 127… https://t.co/EbNr0v3uqb
+248,-0.743,2018-04-02 12:48:02,0.259,0.741,0.0,nytimes,Jared Kushner wants to overhaul the prison system. Jeff Sessions bitterly opposes such a move. That has set the sce… https://t.co/bfAvyriu7c
+249,0.0,2018-04-02 12:38:03,0.0,1.0,0.0,nytimes,"""They can pin them on to their shirt collar or bra strap and lean over and take a hit every now and then, and who’s… https://t.co/OH3RxnOwnI"
+250,-0.5859,2018-04-02 12:28:06,0.192,0.808,0.0,nytimes,British officials investigating the poisoning of a former Russian spy believe it's likely that an assassin smeared… https://t.co/OasjVi4bKl
+251,0.0,2018-04-02 12:18:02,0.0,1.0,0.0,nytimes,Morning Briefing: Here's what you need to know to start your day https://t.co/uuuWI3FzBW
+252,0.6369,2018-04-02 12:11:20,0.0,0.84,0.16,nytimes,RT @nytimesmusic: Ashley McBryde's career as a Nashville songwriter never took off. Now she’s made one of the best country albums of the la…
+253,0.0,2018-04-02 12:05:21,0.0,1.0,0.0,nytimes,Why Sinclair made dozens of local TV news anchors recite the same script https://t.co/c0rMxKmTLy
+254,-0.296,2018-04-02 12:03:36,0.157,0.739,0.104,nytimes,"RT @NYTObits: She died at 17, giving her life to the cause of Korean resistance to Japanese rule. https://t.co/ciesDZrE83"
+255,0.6908,2018-04-02 11:45:58,0.0,0.678,0.322,nytimes,A few practical recommendations to make it easier to drink better wine every day https://t.co/kB6aDmlcnD
+256,0.25,2018-04-02 11:28:16,0.0,0.842,0.158,nytimes,"RT @NYTHealth: First retirement, then unretirement: A growing number of older workers are heading back to the workplace. https://t.co/NRZ0T…"
+257,-0.7906,2018-04-02 11:12:01,0.25,0.75,0.0,nytimes,"It was at the center of one of the largest fraud scandals in the history of for-profit colleges. Now, it's asking t… https://t.co/8ZZIUZNHDe"
+258,0.0,2018-04-02 10:58:28,0.0,1.0,0.0,nytimes,Nonfiction: The Epidemic of Wrongful Convictions in America https://t.co/DNFSK8bgPQ
+259,-0.5423,2018-04-02 10:49:49,0.149,0.851,0.0,nytimes,"RT @nytimesarts: Collaborating on a ""Mean Girls"" musical ""could have been a bad arranged marriage,"" says Tina Fey. ""I feel really very luck…"
+260,0.0,2018-04-02 14:28:57,0.0,1.0,0.0,FoxNews,President @realDonaldTrump &amp; @FLOTUS host the @WhiteHouse Easter Egg Roll https://t.co/C46yH73W5D https://t.co/m9CpMXFomY
+261,0.0,2018-04-02 14:12:17,0.0,1.0,0.0,FoxNews,.@POTUS calls on Republicans to use 'nuclear option' for border legislation https://t.co/paIfFrYjzo
+262,0.0,2018-04-02 14:01:45,0.0,1.0,0.0,FoxNews,.@KatiePavlich: “The president is right about wanting to bolster border security.” https://t.co/Wjb44hTqzs
+263,0.25,2018-04-02 13:56:18,0.105,0.724,0.171,FoxNews,"Boy, 13, found alive after falling into Los Angeles drainage ditch 'maze' https://t.co/wxYcuayHY7"
+264,-0.3818,2018-04-02 13:25:09,0.206,0.794,0.0,FoxNews,"'Affluenza' teen's release 'grave injustice,' MADD president says (via @RyanGaydos) https://t.co/FcL0rkkfhZ"
+265,0.0,2018-04-02 13:20:13,0.0,1.0,0.0,FoxNews,RT @FoxBusiness: ‘Roseanne’ reboot could upend left-wing dogma in Hollywood https://t.co/6yaRM0ECJU
+266,0.0,2018-04-02 13:19:56,0.0,1.0,0.0,FoxNews,"RT @FoxBusiness: Prince Harry, Meghan Markle’s royal wedding could cost $45M https://t.co/RTDZcsNlHL"
+267,0.6124,2018-04-02 13:17:40,0.0,0.667,0.333,FoxNews,Frank Stallone apologizes for profanity-laced tweet directed toward Parkland shooting survivor https://t.co/zYnXvnGwSC
+268,0.0,2018-04-02 13:02:04,0.0,1.0,0.0,FoxNews,.@EricTrump on @foxandfriends: “People have jobs once again…People in this country are happy.” https://t.co/vcDU3ff5ug
+269,-0.8074,2018-04-02 12:48:28,0.378,0.622,0.0,FoxNews,"Ella Fitzgerald and Marilyn Monroe bonded after suffering from abusive childhoods, book claims https://t.co/xpnB9xFsQE"
+270,-0.6486,2018-04-02 12:41:42,0.335,0.542,0.123,FoxNews,Eagles of Death Metal frontman apologizes for 'mean-spirited' March for Our Lives criticism https://t.co/1BqMVyL4lE
+271,0.0,2018-04-02 12:26:52,0.0,1.0,0.0,FoxNews,"Swans swim past a car submerged under flood water on a residential street in Richmond, England. https://t.co/g1bipnWODQ"
+272,-0.3818,2018-04-02 12:21:22,0.133,0.867,0.0,FoxNews,.@PressSec: “[President @realDonaldTrump is] going to stand up and he’s going to fight for the American worker.” https://t.co/76H1QAEkIR
+273,0.3744,2018-04-02 12:12:45,0.0,0.891,0.109,FoxNews,.@PressSec: “Congress absolutely has to step up and do more and make sure we’re doing every single thing that we ca… https://t.co/QLzCHcsMQZ
+274,-0.296,2018-04-02 12:07:27,0.099,0.901,0.0,FoxNews,.@PressSec on @POTUS: “He wanted to see something get done and Democrats refused to actually put something on the t… https://t.co/lD6YvYcqsV
+275,0.0,2018-04-02 11:51:35,0.0,1.0,0.0,FoxNews,"Brandon Judd on @foxandfriends: “We have to be able to enforce our immigration laws."" https://t.co/1WwzgIzDM3"
+276,0.4118,2018-04-02 11:47:47,0.099,0.677,0.223,FoxNews,"OPINION: Yes, Russia is a threat -- but America needs to play a shrewder game. Here's what that means https://t.co/K9aUTMZL1X"
+277,0.0,2018-04-02 11:42:26,0.0,1.0,0.0,FoxNews,.@mercedesschlapp on @POTUS: He wanted a change in the @DeptVetAffairs. He felt it was time. @foxandfriends https://t.co/XW2bpNtYCZ
+278,0.0,2018-04-02 11:38:45,0.0,1.0,0.0,FoxNews,'@RoseanneOnABC' star says show will never mention #Trump by name https://t.co/xmh3s2pNJ8
+279,0.6546,2018-04-02 11:27:49,0.0,0.651,0.349,FoxNews,"Singer @TyeTribbett: 'My faith has never, ever disappointed me' (via @Sashafb) https://t.co/yF2HefItzB"
+280,-0.8255,2018-04-02 09:59:04,0.489,0.511,0.0,BBCWorld,Boko Haram attack: More than a dozen dead in Maiduguri https://t.co/FmJgCUG1KE
+281,-0.128,2018-04-02 09:59:04,0.143,0.857,0.0,BBCWorld,French SNCF rail strike to defy Macron labour reforms https://t.co/iGq992EpHQ
+282,0.0,2018-04-02 09:59:04,0.0,1.0,0.0,BBCWorld,Indian police search for monkey that snatched baby https://t.co/gvpWRBUAMq
+283,-0.128,2018-04-02 09:49:25,0.13,0.87,0.0,BBCWorld,Oklahoma teacher strike: 'I have 29 textbooks for 87 pupils' https://t.co/nfGopIKk9v
+284,0.0,2018-04-02 08:50:06,0.0,1.0,0.0,BBCWorld,How Amsterdam is reducing child obesity https://t.co/J9kcSjJ6HC
+285,0.0,2018-04-02 04:06:33,0.0,1.0,0.0,BBCWorld,Hill Street Blues creator Steven Bochco dies aged 74 https://t.co/5lrOJWDuTu
+286,0.0,2018-04-02 03:06:58,0.0,1.0,0.0,BBCWorld,Costa Rica election: Carlos Alvarado set to be president https://t.co/qKkMqvzTex
+287,-0.6486,2018-04-02 02:20:21,0.323,0.677,0.0,BBCWorld,Kashmir: 20 dead and 70 wounded in fierce clashes https://t.co/mWCgxhevh1
+288,0.0,2018-04-02 01:53:51,0.0,1.0,0.0,BBCWorld,RT @BBCNewsAsia: @BBCBreaking The return of China's Tiangong-1 space lab https://t.co/D6zHr74mUA
+289,-0.8555,2018-04-02 01:50:54,0.343,0.657,0.0,BBCWorld,RT @BBCNewsAsia: A Kuwaiti court has sentenced a Lebanese man and his Syrian wife to death for the killing of a Filipina maid. https://t.co…
+290,0.0,2018-04-02 01:44:34,0.0,1.0,0.0,BBCWorld,RT @BBCBreaking: The junk is down. The remains of an eight-tonne defunct Chinese space lab have come down over the South Pacific https://t.…
+291,0.0,2018-04-02 01:32:52,0.0,1.0,0.0,BBCWorld,Tiangong-1: Defunct China space lab comes down over South Pacific https://t.co/5UAOriuGOf
+292,0.0,2018-04-02 00:17:55,0.0,1.0,0.0,BBCWorld,Brazil's rising tide of young conservatives seeks change https://t.co/GVSkkywW2g
+293,0.3182,2018-04-02 00:15:32,0.0,0.777,0.223,BBCWorld,Did American tourism to Russia increase in 2017? https://t.co/8t60CDKScF
+294,0.0,2018-04-02 00:01:07,0.0,1.0,0.0,BBCWorld,The paired legacy of King and Kennedy https://t.co/gW3QTqUlza
+295,0.0,2018-04-01 23:20:09,0.0,1.0,0.0,BBCWorld,Is Russia arming the Afghan Taliban? https://t.co/wfspQForVf
+296,-0.4939,2018-04-01 23:17:56,0.286,0.714,0.0,BBCWorld,Former Ukrainian president speaks out about being poisoned https://t.co/27eaV2D95b
+297,0.0,2018-04-01 23:15:36,0.0,1.0,0.0,BBCWorld,'I used to be a slave' https://t.co/GCLRQMMSGG
+298,-0.3182,2018-04-01 23:13:07,0.315,0.685,0.0,BBCWorld,"Dumping pesticides, using ducks instead https://t.co/gqOAxeVx3R"
+299,0.2263,2018-04-01 22:42:29,0.0,0.84,0.16,BBCWorld,China hits back with tariffs on US imports worth $3bn https://t.co/WdXaNgabkg
+300,0.0,2018-04-02 13:45:01,0.0,1.0,0.0,CBSNews,"In a three-page memo obtained by the AP, White House ""talking points"" lay out seven ""lies"" that it said Shulkin had… https://t.co/kcPDqFGb6O"
+301,0.0,2018-04-02 13:30:01,0.0,1.0,0.0,CBSNews,Japan's Shinzo Abe to visit Mar-a-Lago to discuss North Korea with Trump https://t.co/PXXDvKNM63 https://t.co/ljsJoSR1e4
+302,0.7783,2018-04-02 13:15:45,0.0,0.726,0.274,CBSNews,"""We don't normally handle these situations, and it feels great to help directly bring a new life into this world,""… https://t.co/UOk64ypwxs"
+303,0.0,2018-04-02 13:01:01,0.0,1.0,0.0,CBSNews,Missouri GOP Senate candidate Josh Hawley sidesteps question on Trump's behavior https://t.co/HKByFWYNOI https://t.co/jVcsEzb9iL
+304,0.1531,2018-04-02 12:47:16,0.0,0.922,0.078,CBSNews,Biologists are challenging the idea of naturalist Charles Darwin that evolution can not be observed in real time. U… https://t.co/jsPlcM34p6
+305,0.1154,2018-04-02 12:41:36,0.0,0.935,0.065,CBSNews,"A firefighter surprised two young girls at their home in Ohio, but when he took off his mask and helmet, they reali… https://t.co/azLZXi40q6"
+306,0.0,2018-04-02 12:35:13,0.0,1.0,0.0,CBSNews,Here’s a look at this morning’s other headlines on @CBSThisMorning: https://t.co/XrcsXi5mE7
+307,-0.6486,2018-04-02 12:30:01,0.249,0.751,0.0,CBSNews,"Pres. Trump tweets ""DACA is dead"" after spending Easter slamming Mexico, Democrats https://t.co/YF1x2TLrwG https://t.co/grH8B4YzWc"
+308,0.0,2018-04-02 12:24:36,0.0,1.0,0.0,CBSNews,Dr. Martin Luther King Jr.’s children speak about their father's legacy and say he was far more radical in his idea… https://t.co/IDwaJAhhb4
+309,-0.5994,2018-04-02 12:18:40,0.17,0.83,0.0,CBSNews,"This week marks the 50th anniversary of the assassination of Dr. Martin Luther King Jr. Only on CBS News,… https://t.co/aVbFkZoB5v"
+310,0.0,2018-04-02 12:11:20,0.0,1.0,0.0,CBSNews,"Dr. Martin Luther King Jr. was assassinated 50 years ago this week. Ahead and only on CBS News, his children reflec… https://t.co/HdWB5LFyPj"
+311,0.2263,2018-04-02 12:08:40,0.0,0.888,0.112,CBSNews,Student protestors at Howard University are entering their fifth straight day occupying schools' administrative bui… https://t.co/BLjSItWnQD
+312,-0.4019,2018-04-02 12:06:08,0.137,0.863,0.0,CBSNews,China's new tariffs on American products take effect today amid heightened tensions over trade. China announced the… https://t.co/t24wWKU3AP
+313,0.25,2018-04-02 12:05:05,0.087,0.787,0.126,CBSNews,Lawmakers are pushing back against Pres. Trump’s vow that there will be no deal to save the DACA program. Trump twe… https://t.co/9L0uerUbZ9
+314,0.0,2018-04-02 12:01:01,0.0,1.0,0.0,CBSNews,"China's defunct space station, Tiangong 1, re-entered the Earth's atmosphere after 8 p.m. ET Sunday, mostly burning… https://t.co/GL05Ea97Iv"
+315,0.0,2018-04-02 11:52:32,0.0,1.0,0.0,CBSNews,Here’s a look at this morning’s other headlines on @CBSThisMorning https://t.co/f4C84V3fes
+316,0.0,2018-04-02 11:46:15,0.0,1.0,0.0,CBSNews,French President Emmanuel Macron spoke with @WIRED editor-in-chief and CBS News contributor @nxthompson and said th… https://t.co/lapQy4yBF6
+317,0.0,2018-04-02 11:45:01,0.0,1.0,0.0,CBSNews,"With tech companies tracking us online, @TonyDokoupil tried to see if it's even possible to shop online without giv… https://t.co/DkjoVscPfY"
+318,-0.2023,2018-04-02 11:37:32,0.161,0.714,0.125,CBSNews,The entertainment world is remembering TV writer and producer Steven Bochco. He died yesterday after a long battle… https://t.co/l1CXWlwCZt
+319,-0.802,2018-04-02 11:33:39,0.324,0.676,0.0,CBSNews,Investigators say the crash off a California cliff that killed a Washington state family may have been intentional.… https://t.co/sB5ib4qmJy
+320,-0.6705,2018-04-02 14:40:07,0.271,0.676,0.053,CNN,Shulkin says he was fired. The White House said he resigned. Here's why it matters. https://t.co/GQctLkajaB https://t.co/3bOKk1Yc5t
+321,-0.4767,2018-04-02 14:34:00,0.162,0.838,0.0,CNN,"Oklahoma teachers are rallying and walking out of classes, expressing frustration over funding and salaries.
+
+Follo… https://t.co/thLk0QCQQ1"
+322,0.0,2018-04-02 14:26:42,0.0,1.0,0.0,CNN,"BREAKING: Winnie Mandela, the South African anti-apartheid activist and former wife of the late President Nelson Ma… https://t.co/niDBaqQyEi"
+323,-0.2263,2018-04-02 14:20:11,0.11,0.822,0.068,CNN,"Ethan Couch, known for his ""affluenza"" defense in his deadly drunk driving case, was released from a Texas jail tod… https://t.co/3XZPvhXxfM"
+324,0.0,2018-04-02 14:15:09,0.0,1.0,0.0,CNN,A rare look inside North Korean leader Kim Jong Un's armored train https://t.co/Wo0QaDc4gb https://t.co/TqRR8a0uQw
+325,0.0,2018-04-02 14:15:00,0.0,1.0,0.0,CNN,"Craig Troxell is a full-time high school science teacher in Oklahoma, but he works 4 jobs to make ends meet. Troxel… https://t.co/Q1Iw26BCty"
+326,-0.0772,2018-04-02 14:07:41,0.1,0.813,0.086,CNN,"In Oklahoma, educators often work about 10 years before reaching the $40,000 salary mark. Low salaries are promptin… https://t.co/FqAoZRmq7e"
+327,-0.3182,2018-04-02 14:03:10,0.17,0.717,0.112,CNN,British authorities examining the poisoning of former Russian spy Sergei Skripal believe the daring placement of th… https://t.co/ll3ToOMxAP
+328,0.0,2018-04-02 13:56:17,0.0,1.0,0.0,CNN,Teachers in Kentucky have walked off the job this morning. Here's why: https://t.co/7xHndPLLZ3 https://t.co/N4rkeb75r0
+329,0.0,2018-04-02 13:50:20,0.0,1.0,0.0,CNN,Everything you need to know about SpaceX's latest launch and recovery attempt https://t.co/1Zf11QiFQu https://t.co/gFw6577QTF
+330,-0.2732,2018-04-02 13:40:06,0.193,0.695,0.112,CNN,Pope Francis baptized a Nigerian migrant -- who shot to fame after confronting a thief on the streets of Rome -- as… https://t.co/OwyjaUcXOu
+331,-0.2263,2018-04-02 13:31:07,0.128,0.872,0.0,CNN,"A federal lawsuit claims CVS unintentionally revealed the HIV status of 6,000 customers https://t.co/WZCgBWM8dd https://t.co/excUkKASMY"
+332,0.0,2018-04-02 13:20:11,0.0,1.0,0.0,CNN,Former Department of Veterans Affairs Secretary David Shulkin says that White House chief of staff John Kelly calle… https://t.co/sxQJUxzi7L
+333,-0.4404,2018-04-02 13:12:56,0.182,0.818,0.0,CNN,Sinclair tells stations to air media-bashing promos — and the criticism goes viral https://t.co/icZFRpqokW https://t.co/MK6hOFpXh6
+334,0.0,2018-04-02 13:02:20,0.0,1.0,0.0,CNN,He’s a high school algebra teacher in Oklahoma. And a bus driver. And a Little League umpire. And he drives for Ube… https://t.co/8GFAfVqIZp
+335,0.0,2018-04-02 13:02:14,0.0,1.0,0.0,CNN,This photographer captures wacky Japanese public toilets https://t.co/LpWvwG0Xl2 via @CNNTravel https://t.co/eNSOcQWpb6
+336,-0.0772,2018-04-02 12:51:02,0.255,0.579,0.166,CNN,A Chinese college student who made no threats but had alarmed a roommate and a friend with his behavior and bought… https://t.co/hD6ydKqcfg
+337,0.0,2018-04-02 12:45:11,0.0,1.0,0.0,CNN,"Retreating from the White House for a three-night stay at his Florida estate, President Trump heard this weekend fr… https://t.co/IFDdKwuvxm"
+338,-0.7351,2018-04-02 12:38:34,0.437,0.563,0.0,CNN,Tesla Model X was in autopilot before fatal crash https://t.co/b1wcGU2Fcl https://t.co/3IbQ5slT5Z
+339,-0.875,2018-04-02 12:28:07,0.37,0.63,0.0,CNN,"President Trump says ""our country is being stolen"" due to an influx of illegal immigration, blaming Democrats for w… https://t.co/EbYXLpxbfV"
+340,0.0,2018-04-02 13:45:01,0.0,1.0,0.0,CBSNews,"In a three-page memo obtained by the AP, White House ""talking points"" lay out seven ""lies"" that it said Shulkin had… https://t.co/kcPDqFGb6O"
+341,0.0,2018-04-02 13:30:01,0.0,1.0,0.0,CBSNews,Japan's Shinzo Abe to visit Mar-a-Lago to discuss North Korea with Trump https://t.co/PXXDvKNM63 https://t.co/ljsJoSR1e4
+342,0.7783,2018-04-02 13:15:45,0.0,0.726,0.274,CBSNews,"""We don't normally handle these situations, and it feels great to help directly bring a new life into this world,""… https://t.co/UOk64ypwxs"
+343,0.0,2018-04-02 13:01:01,0.0,1.0,0.0,CBSNews,Missouri GOP Senate candidate Josh Hawley sidesteps question on Trump's behavior https://t.co/HKByFWYNOI https://t.co/jVcsEzb9iL
+344,0.1531,2018-04-02 12:47:16,0.0,0.922,0.078,CBSNews,Biologists are challenging the idea of naturalist Charles Darwin that evolution can not be observed in real time. U… https://t.co/jsPlcM34p6
+345,0.1154,2018-04-02 12:41:36,0.0,0.935,0.065,CBSNews,"A firefighter surprised two young girls at their home in Ohio, but when he took off his mask and helmet, they reali… https://t.co/azLZXi40q6"
+346,0.0,2018-04-02 12:35:13,0.0,1.0,0.0,CBSNews,Here’s a look at this morning’s other headlines on @CBSThisMorning: https://t.co/XrcsXi5mE7
+347,-0.6486,2018-04-02 12:30:01,0.249,0.751,0.0,CBSNews,"Pres. Trump tweets ""DACA is dead"" after spending Easter slamming Mexico, Democrats https://t.co/YF1x2TLrwG https://t.co/grH8B4YzWc"
+348,0.0,2018-04-02 12:24:36,0.0,1.0,0.0,CBSNews,Dr. Martin Luther King Jr.’s children speak about their father's legacy and say he was far more radical in his idea… https://t.co/IDwaJAhhb4
+349,-0.5994,2018-04-02 12:18:40,0.17,0.83,0.0,CBSNews,"This week marks the 50th anniversary of the assassination of Dr. Martin Luther King Jr. Only on CBS News,… https://t.co/aVbFkZoB5v"
+350,0.0,2018-04-02 12:11:20,0.0,1.0,0.0,CBSNews,"Dr. Martin Luther King Jr. was assassinated 50 years ago this week. Ahead and only on CBS News, his children reflec… https://t.co/HdWB5LFyPj"
+351,0.2263,2018-04-02 12:08:40,0.0,0.888,0.112,CBSNews,Student protestors at Howard University are entering their fifth straight day occupying schools' administrative bui… https://t.co/BLjSItWnQD
+352,-0.4019,2018-04-02 12:06:08,0.137,0.863,0.0,CBSNews,China's new tariffs on American products take effect today amid heightened tensions over trade. China announced the… https://t.co/t24wWKU3AP
+353,0.25,2018-04-02 12:05:05,0.087,0.787,0.126,CBSNews,Lawmakers are pushing back against Pres. Trump’s vow that there will be no deal to save the DACA program. Trump twe… https://t.co/9L0uerUbZ9
+354,0.0,2018-04-02 12:01:01,0.0,1.0,0.0,CBSNews,"China's defunct space station, Tiangong 1, re-entered the Earth's atmosphere after 8 p.m. ET Sunday, mostly burning… https://t.co/GL05Ea97Iv"
+355,0.0,2018-04-02 11:52:32,0.0,1.0,0.0,CBSNews,Here’s a look at this morning’s other headlines on @CBSThisMorning https://t.co/f4C84V3fes
+356,0.0,2018-04-02 11:46:15,0.0,1.0,0.0,CBSNews,French President Emmanuel Macron spoke with @WIRED editor-in-chief and CBS News contributor @nxthompson and said th… https://t.co/lapQy4yBF6
+357,0.0,2018-04-02 11:45:01,0.0,1.0,0.0,CBSNews,"With tech companies tracking us online, @TonyDokoupil tried to see if it's even possible to shop online without giv… https://t.co/DkjoVscPfY"
+358,-0.2023,2018-04-02 11:37:32,0.161,0.714,0.125,CBSNews,The entertainment world is remembering TV writer and producer Steven Bochco. He died yesterday after a long battle… https://t.co/l1CXWlwCZt
+359,-0.802,2018-04-02 11:33:39,0.324,0.676,0.0,CBSNews,Investigators say the crash off a California cliff that killed a Washington state family may have been intentional.… https://t.co/sB5ib4qmJy
+360,0.3612,2018-04-02 10:32:05,0.0,0.878,0.122,nytimes,"A 77-year-old who owns an estimated 75 guns: ""It'll go away. Like all the other times.""
+A 17-year-old who protests:… https://t.co/O1gJ5AEHgL"
+361,0.0,2018-04-02 10:27:54,0.0,1.0,0.0,nytimes,The Checkup: When Your Baby Is Your Roommate https://t.co/WJ8dsClaaL
+362,-0.34,2018-04-02 10:16:38,0.209,0.625,0.166,nytimes,RT @nytopinion: We should stop saying “Asperger.” It’s one way to honor the children killed in Hans Asperger's name as well as those still…
+363,0.0,2018-04-02 09:59:36,0.0,1.0,0.0,nytimes,What to cook this week https://t.co/d1imKGrfPY
+364,0.0,2018-04-02 09:43:24,0.0,1.0,0.0,nytimes,"RT @nytimesmusic: “There’s something about music you listen to in high school. When you hear it, it takes you right back,” Frankie Cosmos's…"
+365,0.3612,2018-04-02 09:27:24,0.0,0.884,0.116,nytimes,"Many of the references in ""Ready Player One"" are merely part of the set decoration — graffiti on a wall, a sticker… https://t.co/Mu847tkZXs"
+366,-0.2263,2018-04-02 09:10:04,0.086,0.863,0.051,nytimes,"RT @nytimesworld: No male student has graduated high school in 48 Afghan districts over the past 17 years, activists say. The number is eve…"
+367,0.4588,2018-04-02 08:41:50,0.148,0.563,0.289,nytimes,"RT @nytimesbooks: This April 1, revisit a great literary hoax.
+https://t.co/KHizQJKang"
+368,0.3818,2018-04-02 08:25:17,0.0,0.894,0.106,nytimes,"RT @nytimesworld: The South China Morning Post, now owned by Alibaba, has become the leading edge of a mission to promote China’s soft powe…"
+369,0.5267,2018-04-02 08:07:22,0.0,0.833,0.167,nytimes,Professional skater Lacey Baker began skateboarding at around 2 years old. Now she's an inspiration to young skater… https://t.co/PqywETwVvw
+370,0.0,2018-04-02 07:49:41,0.0,1.0,0.0,nytimes,“Romeo and Juliet never had to grow older together or put their kids through college. Juliet never went through men… https://t.co/8PWXTegwiX
+371,-0.6908,2018-04-02 07:32:45,0.183,0.817,0.0,nytimes,RT @nytimesworld: The British hotel owner whose son married Pippa Middleton in May is under formal investigation in France over a rape alle…
+372,0.0,2018-04-02 07:15:39,0.0,1.0,0.0,nytimes,Automakers are offering augmented reality experiences and lifelike virtual reality simulations to lure buyers https://t.co/ZAHeGSxEOI
+373,0.4019,2018-04-02 06:58:54,0.0,0.69,0.31,nytimes,Tip: How to Clean Paper Currency https://t.co/pOFlUm8tuZ
+374,0.0,2018-04-02 06:43:21,0.0,1.0,0.0,nytimes,"Whether consumed in Manila's heat or on the edge of a New York winter, adobo holds the power to change moods and al… https://t.co/tozE1vqADV"
+375,0.5859,2018-04-02 06:26:20,0.0,0.714,0.286,nytimes,"RT @nytimesarts: How does Steven Spielberg's ""Ready Player One"" compare with the novel? https://t.co/kEaGBgtssl"
+376,0.6808,2018-04-02 06:09:07,0.0,0.763,0.237,nytimes,"Just how useful is that $3,500 smart refrigerator that can beam live images of its contents to your phone? https://t.co/g5BWhd7Q3Q"
+377,0.0,2018-04-02 05:51:37,0.0,1.0,0.0,nytimes,"Micheal Brown applied to 20 highly selective colleges.
+He got into all of them.
+They all offered him full rides. https://t.co/H3jAlAwzGY"
+378,0.0,2018-04-02 05:33:54,0.0,1.0,0.0,nytimes,"Steven Bochco, Producer of ‘Hill Street Blues’ and ‘NYPD Blue,’ Dies at 74 https://t.co/R1i7T2xMt6"
+379,0.0,2018-04-02 05:17:08,0.0,1.0,0.0,nytimes,"She wasn’t looking for a husband when she moved to a new apartment in 2010, but that's exactly what she found https://t.co/r81nnLgT5H"
+380,0.1531,2018-04-02 11:21:33,0.0,0.918,0.082,FoxNews,"""It's the people that I'll miss.""
+
+Arizona trooper gives emotional radio call to mark end of 37-year career… https://t.co/mOLmSFh5Zp"
+381,0.0,2018-04-02 10:59:27,0.0,1.0,0.0,FoxNews,.@AdamKlotzFNC gives an update on the weather on @foxandfriends https://t.co/y9wQa2ttfN
+382,0.4939,2018-04-02 10:45:25,0.0,0.856,0.144,FoxNews,".@hogangidley45 on immigration: “It’s been out of hand, and that’s one of the reasons that the president wanted a l… https://t.co/HGcKq0Eo9g"
+383,0.0,2018-04-02 10:33:51,0.0,1.0,0.0,FoxNews,.@dbongino: “You can’t have a country without borders. It’s just a landmass without the borders.”… https://t.co/QFn3LnHuQl
+384,0.0,2018-04-02 10:20:36,0.0,1.0,0.0,FoxNews,"Mueller was appointed too early in Russia investigation, senator says https://t.co/VNvQElvp0d"
+385,0.0,2018-04-02 09:56:33,0.0,1.0,0.0,FoxNews,Jessica Vaughan: “Congress has been completely dysfunctional on the immigration issue… so [President… https://t.co/DJQ2vLpGol
+386,0.0,2018-04-02 09:36:17,0.0,1.0,0.0,FoxNews,Red paint found splattered across Trump golf club sign https://t.co/1ATMly59MW
+387,-0.296,2018-04-02 09:23:28,0.104,0.896,0.0,FoxNews,".@RealDrGina: “Conor Lamb ran on President Trump’s coattails and it’s no wonder he did, I mean we have the winninge… https://t.co/IFFCAe3vvN"
+388,0.0,2018-04-02 09:00:19,0.0,1.0,0.0,FoxNews,"James Carafano: ""[The #Trump administration has] actually gradually and systematically started closing those loopho… https://t.co/4ICZaILgup"
+389,-0.6908,2018-04-02 08:55:00,0.299,0.701,0.0,FoxNews,London murder rate beats New York for month as stabbings surge https://t.co/6oEeln4qSn
+390,0.0,2018-04-02 08:48:40,0.0,1.0,0.0,FoxNews,Malala Yousafzai ending 1st visit to Pakistan since shooting https://t.co/Jva63DTQrx
+391,0.0,2018-04-02 08:43:00,0.0,1.0,0.0,FoxNews,"California Rep. Sherman defends 'hysteria' over citizenship, census question https://t.co/vyzSQEAtVc"
+392,0.0,2018-04-02 08:38:00,0.0,1.0,0.0,FoxNews,"SUV carrying family accelerated off California cliff, CHP says https://t.co/wLxUgQx2wx https://t.co/qLFyNv3I8S"
+393,-0.296,2018-04-02 08:36:00,0.239,0.761,0.0,FoxNews,"Mexico is no piñata, presidential frontrunner says https://t.co/VQT5nyCvZL"
+394,0.4404,2018-04-02 08:32:00,0.0,0.775,0.225,FoxNews,Braves reporter gets hit in the eye by foul ball https://t.co/dKx2tt6nFV
+395,0.0,2018-04-02 08:27:52,0.0,1.0,0.0,FoxNews,".@MustafaTameez: ""President #Trump is trying to use this broad brush to really affect trade in a way that will hurt… https://t.co/XXZmy0ZGdC"
+396,-0.5574,2018-04-02 08:20:14,0.175,0.825,0.0,FoxNews,".@conservmillen on illegal immigration: ""Either our politicians have to become less spineless, or Mexico has to bec… https://t.co/k6csyEpQ8v"
+397,-0.6908,2018-04-02 08:19:00,0.289,0.711,0.0,FoxNews,"Tennessee store clerk charged in death of teen believed to be shoplifting beer, report says https://t.co/86w4E6TSwe"
+398,0.0,2018-04-02 08:14:00,0.0,1.0,0.0,FoxNews,"'Reckless' Mustang driver hits 150 mph in chase, troopers back off https://t.co/itlCBNTi8c"
+399,0.0923,2018-04-02 08:09:05,0.193,0.591,0.216,FoxNews,"President @realDonaldTrump strengthens immigration stance; ""NO MORE DACA DEAL!"" https://t.co/W7tqBBbkH6 https://t.co/vGPb86tMgN"
+400,-0.34,2018-04-01 22:21:08,0.211,0.789,0.0,BBCWorld,Spain Catalonia: Puigdemont speaks out after arrest in Germany https://t.co/VPfPkL7V4s
+401,-0.4767,2018-04-01 22:02:15,0.307,0.693,0.0,BBCWorld,Somalia al-Shabab: African Union base under attack https://t.co/wkDA3RLIjy
+402,-0.5719,2018-04-01 21:40:03,0.316,0.684,0.0,BBCWorld,Daca Dreamers: Trump vents anger on immigrant programme https://t.co/YC39NmKkHr
+403,0.0,2018-04-01 19:12:45,0.0,1.0,0.0,BBCWorld,Efrain Rios Montt: Guatemala ex-leader tried for genocide dies https://t.co/CfFUFssY47
+404,-0.8957,2018-04-01 18:15:53,0.607,0.393,0.0,BBCWorld,Mexico: Seven police officers die in Veracruz prison riot https://t.co/zoDRd7mY4w
+405,-0.8316,2018-04-01 16:30:17,0.37,0.63,0.0,BBCWorld,"RT @BBCSteveR: UK-Russia war of words over Salisbury:
+
+🇬🇧 about 🇷🇺
+reckless, despicable, culpable, malign, aggression, flagrant, barbaric,…"
+406,0.0,2018-04-01 15:45:33,0.0,1.0,0.0,BBCWorld,"RT @BBCNews: 😆😂🤣
+
+https://t.co/qjCDvEa0BI"
+407,-0.6705,2018-04-01 15:10:39,0.237,0.678,0.085,BBCWorld,"RT @BBCSteveR: More from Russian TV's Kiselev. Blaming Russia for Novichok poisoning is like saying ""If someone's hit over the head with an…"
+408,0.0,2018-04-01 15:09:43,0.0,1.0,0.0,BBCWorld,"RT @BBCNews: The Queen, Prince William and Catherine have attended an Easter service at Windsor Castle
+
+https://t.co/e9XSQsTtz0 https://t.c…"
+409,-0.4939,2018-04-01 15:04:51,0.127,0.873,0.0,BBCWorld,RT @BBCSteveR: Why's Russian TV showing the inventor of the sandwich (the Earl of Sandwich) in a report on the Skripals? Anchor: blaming Ru…
+410,-0.8555,2018-04-01 14:24:37,0.544,0.38,0.076,BBCWorld,Kuwait death sentences for murder of Filipina maid https://t.co/PDwCWodXei
+411,-0.8402,2018-04-01 14:17:33,0.5,0.5,0.0,BBCWorld,Gaza-Israel violence: Netanyahu and Erdogan in war of words https://t.co/Z4LPJ4NOvu
+412,0.0,2018-04-01 13:56:33,0.0,1.0,0.0,BBCWorld,Tiangong-1: China space lab's return approaches https://t.co/0IQYaq8P1M
+413,0.0,2018-04-01 12:41:36,0.0,1.0,0.0,BBCWorld,"RT @BBCNews: Three WW2 aircraft - a Spitfire T9, Spitfire Mk IX and a Hawker Hurricane X - fly over wartime airfield Biggin Hill for #RAF10…"
+414,0.0,2018-04-01 12:15:32,0.0,1.0,0.0,BBCWorld,Inside the armoured green train used by Kim Jong-un on his trip to China https://t.co/C7djAnrGEC
+415,0.0,2018-04-01 11:32:38,0.0,1.0,0.0,BBCWorld,Pope Easter message urges ‘end to Syria carnage’ https://t.co/0igcyRXf9f
+416,0.0,2018-04-01 11:13:53,0.0,1.0,0.0,BBCWorld,Alvarado v Alvarado: Costa Rica's election explained https://t.co/KYlxkfzx6r
+417,0.0,2018-04-01 10:30:14,0.0,1.0,0.0,BBCWorld,"See you later Alligator. 🐊 
+
+https://t.co/hHMns7Dpwo https://t.co/f9TkLjsMot"
+418,0.0,2018-04-01 10:06:13,0.0,1.0,0.0,BBCWorld,South Korea's K-pop heavyweights set to perform in North https://t.co/vCvOxTPmcw
+419,0.0,2018-04-01 08:00:56,0.0,1.0,0.0,BBCWorld,Alligator pulled from Florida family's swimming pool https://t.co/fSesBzHCLU
+420,0.0,2018-04-02 11:33:07,0.0,1.0,0.0,CBSNews,"Here are three things you should know this morning:
+1⃣Russia tests anti-ballistic missile
+2⃣Jury selection in Cosby… https://t.co/LOc78SUdKs"
+421,0.0,2018-04-02 11:21:01,0.0,1.0,0.0,CBSNews,"Remembering Steven Bochco, TV creator of ""Hill Street Blues"" and ""NYPD Blue""  https://t.co/WSUBh4bjsu https://t.co/c9qH6fN0l7"
+422,0.0,2018-04-02 11:18:46,0.0,1.0,0.0,CBSNews,"Millions of shoppers at Saks Fifth Avenue, Saks off Fifth and Lord &amp; Taylor may be impacted by a massive data breac… https://t.co/uuShVNJaAa"
+423,0.0,2018-04-02 11:14:28,0.0,1.0,0.0,CBSNews,The Sacramento Sheriff's Dept. will release more information after one of its vehicles hit a protester Saturday. A… https://t.co/9rbgV8uU1j
+424,0.0,2018-04-02 11:12:40,0.0,1.0,0.0,CBSNews,Hundreds of schools in Oklahoma and Kentucky are closed today as thousands of teachers prepare to rally at their St… https://t.co/fnhKnkN1WP
+425,0.0,2018-04-02 11:11:57,0.0,1.0,0.0,CBSNews,Pieces of the defunct Chinese space station crashed overnight into a remote part of the South Pacific. The Tiangong… https://t.co/imDW8ErDPs
+426,0.0,2018-04-02 11:10:52,0.0,1.0,0.0,CBSNews,"A Spring snowstorm is affecting 35 million people in the East. Around two inches could fall in New York, while part… https://t.co/muCYhKqdeY"
+427,0.128,2018-04-02 11:08:42,0.065,0.846,0.09,CBSNews,China imposed significant tariffs overnight on more than 100 imported American goods. The move is in retaliation fo… https://t.co/rKLZNq7kXj
+428,-0.4019,2018-04-02 11:05:33,0.211,0.688,0.101,CBSNews,President Trump promised no more immigration talks with Congress and also threatened to end NAFTA if Mexico does no… https://t.co/lE5eMedCDw
+429,-0.4228,2018-04-02 11:04:03,0.177,0.728,0.095,CBSNews,"Fifty years after Martin Luther King Jr.'s assassination, a vast majority of Americans call him a very important hi… https://t.co/YAQvi03t6g"
+430,-0.5994,2018-04-02 11:00:02,0.178,0.822,0.0,CBSNews,"This week marks the 50th anniversary of the assassination of Dr. Martin Luther King Jr. Ahead on @CBSThisMorning,… https://t.co/QpD6pxc3LY"
+431,-0.802,2018-04-02 10:55:01,0.324,0.676,0.0,CBSNews,Investigators say the crash off a California cliff that killed a Washington state family may have been intentional.… https://t.co/NzOyR1yVM5
+432,0.0,2018-04-02 10:45:01,0.0,1.0,0.0,CBSNews,AHEAD on @CBSThisMorning: @CecileRichards is entering her final weeks at the helm of Planned Parenthood. She will s… https://t.co/SfBSB1MKV8
+433,-0.802,2018-04-02 10:41:01,0.324,0.676,0.0,CBSNews,"Deadly SUV cliff crash that killed a Washington state family may have been intentional, according preliminary evide… https://t.co/mJaZ2mMNeI"
+434,0.0,2018-04-02 10:27:00,0.0,1.0,0.0,CBSNews,"RT @CBSThisMorning: THIS MORNING: 
+🔜@danackerman talks about the latest data breach
+🔜@ianbremmer discusses China's new tariffs on American…"
+435,0.1531,2018-04-02 10:21:01,0.182,0.556,0.263,CBSNews,Commentary: Want to be loved by the Left? Get fired by Trump https://t.co/htqkDqIjJH https://t.co/laBa4jWrIS
+436,-0.5423,2018-04-02 10:03:04,0.241,0.759,0.0,CBSNews,"Saks Fifth Avenue, Lord &amp; Taylor stores suffer data breach https://t.co/uza30WLOfo https://t.co/PDCjkhekmy"
+437,-0.9042,2018-04-02 09:54:04,0.528,0.472,0.0,CBSNews,"Death toll rises, Israel rejects calls for probe into Gaza violence https://t.co/2NMiL7xDhV https://t.co/XMRF5ppgmK"
+438,0.0,2018-04-02 09:48:03,0.0,1.0,0.0,CBSNews,Villanova and Michigan head to NCAA national title game https://t.co/mShhDUbl3v https://t.co/Iy7xumDR7g
+439,-0.6705,2018-04-02 09:40:06,0.29,0.71,0.0,CBSNews,Three year old killed in drive-by shooting just outside Atlanta https://t.co/ZKra7wCekF https://t.co/w7FUzIs87t
+440,-0.296,2018-04-02 12:17:56,0.115,0.885,0.0,CNN,President Trump says there will be no deal with Democrats to legalize thousands of undocumented immigrants brought… https://t.co/KkHBa7HHtF
+441,0.0,2018-04-02 12:05:44,0.0,1.0,0.0,CNN,"National Rifle Association board member and classic rocker Ted Nugent calls Parkland survivors ""liars"" and ""soulles… https://t.co/uzu0CERDxo"
+442,0.0,2018-04-02 11:55:35,0.0,1.0,0.0,CNN,Their journey north sparked a Trump tweetstorm https://t.co/TFr8INY7W6 https://t.co/ExKaG414XG
+443,-0.5574,2018-04-02 11:51:01,0.184,0.816,0.0,CNN,"Alisyn Camerota: ""So, the tweet [from President Trump] fired you?""
+
+Former Veterans Affairs Secretary David Shulkin… https://t.co/9jLGNp59d0"
+444,-0.2023,2018-04-02 11:48:06,0.087,0.913,0.0,CNN,"Here are some of iOS 11.3's features you should know about:
+- You can turn off the controversial iPhone-slowing fea… https://t.co/ou7r7DbgTI"
+445,-0.0772,2018-04-02 11:40:27,0.254,0.565,0.181,CNN,Las Vegas hockey team retires No. 58 to honor concert victims https://t.co/hj4ge2tI1e https://t.co/aijAdC5Nov
+446,-0.4019,2018-04-02 11:30:19,0.114,0.886,0.0,CNN,"If you stand inside the world's quietest room for long enough, you start to hear your heartbeat. Then you lose your… https://t.co/vsoQeDFcB8"
+447,0.0,2018-04-02 11:20:04,0.0,1.0,0.0,CNN,President Trump embraces his instincts at a key global moment | Analysis by @StCollinson https://t.co/y2JGcWhGEd https://t.co/dVXt1QMa25
+448,-0.0516,2018-04-02 11:13:15,0.066,0.934,0.0,CNN,"RT @NewDay: CNN's @brianstelter on Sinclair stations airing media-bashing promos: ""The owner's conservative politics have been trickling do…"
+449,0.4391,2018-04-02 11:13:04,0.0,0.874,0.126,CNN,"An all-newsroom email from one station news director read: ""Let me be absolutely clear here... These MUST Run. If t… https://t.co/Mkt9kltImO"
+450,-0.4404,2018-04-02 11:11:10,0.153,0.847,0.0,CNN,Sinclair Broadcast Group tells local news stations to air media-bashing promos — and the criticism goes viral… https://t.co/fHuumjZOTw
+451,0.0,2018-04-02 11:00:12,0.0,1.0,0.0,CNN,"5 things for Monday:
+
+- Chinese tariffs
+- DACA
+- Gaza
+- Teacher walk outs
+- Sinclair Broadcast Group… https://t.co/YUswJFxevw"
+452,0.0,2018-04-02 10:55:05,0.0,1.0,0.0,CNN,"A family's SUV found at the bottom of a California cliff last week may have been deliberately driven off the road,… https://t.co/gf5gn4li4k"
+453,0.3818,2018-04-02 10:50:04,0.0,0.776,0.224,CNN,13 simple ways to protect your family's data https://t.co/ujhIyf3iaK https://t.co/OOBGEoXhhy
+454,0.1027,2018-04-02 10:40:04,0.192,0.68,0.128,CNN,"Inspired by the West Virginia strike in which teachers demanded and got a pay raise from state leaders, a wave of e… https://t.co/Wiwze3ziGo"
+455,0.0,2018-04-02 10:32:31,0.0,1.0,0.0,CNN,"Secret Service investigating vandalism at Trump golf club in Florida, sheriff's office says https://t.co/nGHj12upVh https://t.co/LlmDNSzN3W"
+456,0.3612,2018-04-02 10:22:20,0.0,0.857,0.143,CNN,"They led a national march. Now Parkland students return to a school they say ""feels like jail.""… https://t.co/AUla4z4zG4"
+457,0.6808,2018-04-02 10:12:02,0.0,0.781,0.219,CNN,This 17-year-old applied to 20 of the best universities in the US and was admitted to every single one with a full… https://t.co/7ewFFrvUtc
+458,0.4404,2018-04-02 10:00:06,0.0,0.847,0.153,CNN,Apple is proposing 13 new emojis in an effort to better represent people with disabilities https://t.co/nl3mlydPeM https://t.co/TkAOE7y0V1
+459,-0.4588,2018-04-02 09:51:07,0.348,0.488,0.165,CNN,"Roseanne tweets support of Trump conspiracy theory, confuses Twitter https://t.co/IY1u69kx8b https://t.co/4MUOzh8b0s"
+460,0.0,2018-04-02 11:33:07,0.0,1.0,0.0,CBSNews,"Here are three things you should know this morning:
+1⃣Russia tests anti-ballistic missile
+2⃣Jury selection in Cosby… https://t.co/LOc78SUdKs"
+461,0.0,2018-04-02 11:21:01,0.0,1.0,0.0,CBSNews,"Remembering Steven Bochco, TV creator of ""Hill Street Blues"" and ""NYPD Blue""  https://t.co/WSUBh4bjsu https://t.co/c9qH6fN0l7"
+462,0.0,2018-04-02 11:18:46,0.0,1.0,0.0,CBSNews,"Millions of shoppers at Saks Fifth Avenue, Saks off Fifth and Lord &amp; Taylor may be impacted by a massive data breac… https://t.co/uuShVNJaAa"
+463,0.0,2018-04-02 11:14:28,0.0,1.0,0.0,CBSNews,The Sacramento Sheriff's Dept. will release more information after one of its vehicles hit a protester Saturday. A… https://t.co/9rbgV8uU1j
+464,0.0,2018-04-02 11:12:40,0.0,1.0,0.0,CBSNews,Hundreds of schools in Oklahoma and Kentucky are closed today as thousands of teachers prepare to rally at their St… https://t.co/fnhKnkN1WP
+465,0.0,2018-04-02 11:11:57,0.0,1.0,0.0,CBSNews,Pieces of the defunct Chinese space station crashed overnight into a remote part of the South Pacific. The Tiangong… https://t.co/imDW8ErDPs
+466,0.0,2018-04-02 11:10:52,0.0,1.0,0.0,CBSNews,"A Spring snowstorm is affecting 35 million people in the East. Around two inches could fall in New York, while part… https://t.co/muCYhKqdeY"
+467,0.128,2018-04-02 11:08:42,0.065,0.846,0.09,CBSNews,China imposed significant tariffs overnight on more than 100 imported American goods. The move is in retaliation fo… https://t.co/rKLZNq7kXj
+468,-0.4019,2018-04-02 11:05:33,0.211,0.688,0.101,CBSNews,President Trump promised no more immigration talks with Congress and also threatened to end NAFTA if Mexico does no… https://t.co/lE5eMedCDw
+469,-0.4228,2018-04-02 11:04:03,0.177,0.728,0.095,CBSNews,"Fifty years after Martin Luther King Jr.'s assassination, a vast majority of Americans call him a very important hi… https://t.co/YAQvi03t6g"
+470,-0.5994,2018-04-02 11:00:02,0.178,0.822,0.0,CBSNews,"This week marks the 50th anniversary of the assassination of Dr. Martin Luther King Jr. Ahead on @CBSThisMorning,… https://t.co/QpD6pxc3LY"
+471,-0.802,2018-04-02 10:55:01,0.324,0.676,0.0,CBSNews,Investigators say the crash off a California cliff that killed a Washington state family may have been intentional.… https://t.co/NzOyR1yVM5
+472,0.0,2018-04-02 10:45:01,0.0,1.0,0.0,CBSNews,AHEAD on @CBSThisMorning: @CecileRichards is entering her final weeks at the helm of Planned Parenthood. She will s… https://t.co/SfBSB1MKV8
+473,-0.802,2018-04-02 10:41:01,0.324,0.676,0.0,CBSNews,"Deadly SUV cliff crash that killed a Washington state family may have been intentional, according preliminary evide… https://t.co/mJaZ2mMNeI"
+474,0.0,2018-04-02 10:27:00,0.0,1.0,0.0,CBSNews,"RT @CBSThisMorning: THIS MORNING: 
+🔜@danackerman talks about the latest data breach
+🔜@ianbremmer discusses China's new tariffs on American…"
+475,0.1531,2018-04-02 10:21:01,0.182,0.556,0.263,CBSNews,Commentary: Want to be loved by the Left? Get fired by Trump https://t.co/htqkDqIjJH https://t.co/laBa4jWrIS
+476,-0.5423,2018-04-02 10:03:04,0.241,0.759,0.0,CBSNews,"Saks Fifth Avenue, Lord &amp; Taylor stores suffer data breach https://t.co/uza30WLOfo https://t.co/PDCjkhekmy"
+477,-0.9042,2018-04-02 09:54:04,0.528,0.472,0.0,CBSNews,"Death toll rises, Israel rejects calls for probe into Gaza violence https://t.co/2NMiL7xDhV https://t.co/XMRF5ppgmK"
+478,0.0,2018-04-02 09:48:03,0.0,1.0,0.0,CBSNews,Villanova and Michigan head to NCAA national title game https://t.co/mShhDUbl3v https://t.co/Iy7xumDR7g
+479,-0.6705,2018-04-02 09:40:06,0.29,0.71,0.0,CBSNews,Three year old killed in drive-by shooting just outside Atlanta https://t.co/ZKra7wCekF https://t.co/w7FUzIs87t
+480,0.0,2018-04-02 05:00:35,0.0,1.0,0.0,nytimes,Oped-Contributor: Who is a Turk? It’s Complicated https://t.co/mMfUCvRnrN
+481,0.0,2018-04-02 04:55:35,0.0,1.0,0.0,nytimes,Seeing Martin Luther King Jr. in a New Light https://t.co/OPVI1HpP08
+482,-0.1531,2018-04-02 04:51:35,0.156,0.714,0.129,nytimes,"A new class of feminist TV encourages tween girls to experiment, fail and then try all over again https://t.co/WC1fZd3CX6"
+483,0.4588,2018-04-02 04:34:39,0.11,0.682,0.208,nytimes,"RT @nytimesworld: He helped save 600 children from the Nazis but regretted that he couldn't save more. Johan van Hulst, one of the Righteou…"
+484,-0.5719,2018-04-02 04:17:54,0.27,0.73,0.0,nytimes,What if we could train ourselves to crave negative feedback? https://t.co/BPC2XGaApp
+485,0.4019,2018-04-02 04:00:50,0.0,0.769,0.231,nytimes,Costa Rica Election Hands Presidency to Governing Party Stalwart https://t.co/0bMaWc0BkA
+486,0.4871,2018-04-02 04:00:50,0.0,0.857,0.143,nytimes,RT @nytimesworld: Saving the Iberian lynx? A popular E.U. program. Saving a freshwater mussel from pollution? Not so much. “People don’t re…
+487,0.0,2018-04-02 03:42:11,0.0,1.0,0.0,nytimes,"Pitchers for the Arizona Diamondbacks will have the choice to be driven from the bullpen or trot in, as usual https://t.co/jGcKtDQgVB"
+488,0.5859,2018-04-02 03:25:11,0.0,0.73,0.27,nytimes,Can AI research in Silicon Valley change the way Hollywood creates special effects in movies?https://t.co/6jv0wYvKu3
+489,-0.7783,2018-04-02 03:06:30,0.298,0.702,0.0,nytimes,A California judge’s ruling would require cancer warning labels on coffee. The coffee industry is considering how t… https://t.co/9Qw94wwseM
+490,-0.34,2018-04-02 02:49:57,0.179,0.821,0.0,nytimes,China Slaps Tariffs on U.S. Products in Warning Shot to Trump https://t.co/krRoVOKAdc
+491,-0.5574,2018-04-02 02:42:05,0.187,0.813,0.0,nytimes,"RT @mattfleg: “We’ll outlive them.” Student activists settle into a new phase of the gun debate: the long, uncertain slog toward lasting ch…"
+492,-0.7184,2018-04-02 02:24:13,0.4,0.6,0.0,nytimes,How to Fill Unpleasant Jobs in Undesirable Places: Recruit Refugees https://t.co/5hIkWkwJKm
+493,-0.3612,2018-04-02 02:12:17,0.217,0.783,0.0,nytimes,China’s Space Station Has Finally Fallen Back to Earth https://t.co/UR38rxikOy
+494,-0.1531,2018-04-02 02:05:19,0.074,0.926,0.0,nytimes,RT @nytimesworld: Two artists have unveiled what they say is Denmark’s first public monument to a black woman: a 19th-century rebel queen w…
+495,-0.3321,2018-04-02 01:48:39,0.111,0.889,0.0,nytimes,He had a breakdown and later found refuge in a Bronx boatyard. He’d been running from a past most people would envy. https://t.co/lmVAFsfmiz
+496,0.765,2018-04-02 01:33:02,0.0,0.678,0.322,nytimes,RT @TylerKepner: On Baseball: Gabe Kapler promised to be bold. But is Philadelphia — and baseball — ready for him? https://t.co/ij6IXN6gUm
+497,-0.3818,2018-04-02 01:19:37,0.191,0.809,0.0,nytimes,"After Gaza Clash, Israel and Palestinians Fight With Videos and Words https://t.co/h7L7rmQHnN"
+498,0.0,2018-04-02 01:11:34,0.0,1.0,0.0,nytimes,RT @NYTScience: What makes that knuckle cracking noise? Researchers built a mathematical model to explain it. https://t.co/8ntdalgMy0
+499,-0.0865,2018-04-02 00:55:05,0.128,0.758,0.114,nytimes,More than 5 million credit and debit card numbers have been stolen from Saks Fifth Avenue and Lord &amp; Taylor custome… https://t.co/hJwop8wk82
+500,0.0,2018-04-02 08:05:00,0.0,1.0,0.0,FoxNews,An Arizona highway patrolman gave his colleagues a tearful goodbye on his last day on the job after serving for 37… https://t.co/1UEGr6zLzp
+501,-0.7003,2018-04-02 08:02:00,0.459,0.541,0.0,FoxNews,"Delta flight loses engine to bird strike, forced to land https://t.co/8IoY9i7XXh"
+502,-0.6705,2018-04-02 07:58:00,0.282,0.718,0.0,FoxNews,".@charliekirk11: ""@POTUS's policies are benefiting the American people... Black unemployment is the lowest it's eve… https://t.co/fnQvlrV84r"
+503,-0.3182,2018-04-02 07:54:00,0.108,0.892,0.0,FoxNews,Anthony and Kimberly Dalrymple hold a flag as they walk near Mandalay Bay during a vigil for victims &amp; survivors of… https://t.co/gQdKU6i6Qi
+504,0.5106,2018-04-02 07:51:00,0.0,0.845,0.155,FoxNews,"Former Attorney General Edwin Meese III: ""We need strong leadership, which would move us back towards the Constitut… https://t.co/hYx078tSz4"
+505,0.0,2018-04-02 07:46:00,0.0,1.0,0.0,FoxNews,Witnesses forever changed by MLK's final days https://t.co/nNtVJ9Ye89
+506,0.0,2018-04-02 07:41:00,0.0,1.0,0.0,FoxNews,".@DarrellIssa: ""Any time a company is essentially monetizing data, there has to be a lot more protection for the co… https://t.co/F315lzQwwg"
+507,-0.0572,2018-04-02 07:38:00,0.06,0.94,0.0,FoxNews,".@DiamondandSilk on some states against the citizenship question on the 2020 census: ""They don't want us to know wh… https://t.co/dmYDpH1prF"
+508,-0.6249,2018-04-02 07:33:00,0.347,0.518,0.135,FoxNews,India hotel collapse kills 10 people; 10 others pulled from rubble alive https://t.co/8uufq8dBev
+509,0.3182,2018-04-02 07:28:00,0.0,0.887,0.113,FoxNews,".@TomiLahren: ""We need to make sure that Americans come first in California and the rest of the country."" https://t.co/iUsYmraWVb"
+510,-0.5106,2018-04-02 07:24:00,0.208,0.71,0.082,FoxNews,"Ex-Russian spy poisoning a 'new era of warfare,' UK Defense Secretary says, amid diplomatic fallout https://t.co/22DuFo3AEq"
+511,0.0258,2018-04-02 07:20:00,0.131,0.735,0.135,FoxNews,.@mschlapp: “This whole idea that President #Trump is somehow chaotic and unique because he has his own strong poin… https://t.co/K7odIHyJP6
+512,0.4215,2018-04-02 07:15:00,0.152,0.556,0.293,FoxNews,"Teen left severely disabled after swallowing slug looks to family, friends for support https://t.co/BEXu92OhKi"
+513,0.0,2018-04-02 07:10:00,0.0,1.0,0.0,FoxNews,".@jasoninthehouse on 2020 census: ""The census is going to count everybody. We're having our national debate about D… https://t.co/x62cyoWHsf"
+514,-0.7717,2018-04-02 07:05:00,0.379,0.621,0.0,FoxNews,.@WhiteHouse goes on attack over ex-VA head Shulkin's claim he was fired https://t.co/O576gt2a5B
+515,0.0,2018-04-02 07:00:01,0.0,1.0,0.0,FoxNews,".@LindseyGrahamSC on Syria: ""Well, Mr. President, when it comes to Russia, read the Ronald Reagan playbook. When it… https://t.co/8RWwMAGLey"
+516,-0.4019,2018-04-02 06:55:00,0.278,0.722,0.0,FoxNews,Mexico candidate fights ruling party's tarnished image https://t.co/QbdUXhV49L
+517,-0.2263,2018-04-02 06:50:00,0.095,0.905,0.0,FoxNews,"Former Attorney General Edwin Meese III on President Reagan's perspective on campus protests: ""Listen to what the g… https://t.co/xv0nfzTWh3"
+518,0.0,2018-04-02 06:45:00,0.0,1.0,0.0,FoxNews,"OPINION: Fleeing Venezuelans need refuge in the US, Latin America and elsewhere https://t.co/AqM4tqdN4O"
+519,0.7906,2018-04-02 06:40:00,0.0,0.692,0.308,FoxNews,".@ainsleyearhardt on new book ""The Light Within Me"": ""This is giving God the glory. It is not about Ainsley Earhard… https://t.co/sORdLszg7F"
+520,0.0,2018-04-01 07:58:36,0.0,1.0,0.0,BBCWorld,Florida alligator: Police posts show Nokomis pool gator https://t.co/0x8b3pw2KP
+521,-0.1779,2018-04-01 07:51:27,0.114,0.802,0.084,BBCWorld,RT @BBCNews: 8-year-old Alexa is going blind — she's created a list of things she wants to see before that happens ❤️ https://t.co/dr2Nrg3w…
+522,-0.34,2018-04-01 06:41:44,0.231,0.769,0.0,BBCWorld,Russia Kemerovo fire: Aman Tuleyev quits as governor https://t.co/ii5cAgRpWz
+523,-0.34,2018-04-01 03:41:32,0.179,0.821,0.0,BBCWorld,Moscow official says West is trying to deny Russia World Cup https://t.co/5JVntZJ4lh
+524,0.5574,2018-04-01 03:36:37,0.0,0.714,0.286,BBCWorld,Pope Francis baptises Italy's 'migrant hero' at Easter service https://t.co/z5OB3dVrk1
+525,0.0,2018-04-01 01:00:34,0.0,1.0,0.0,BBCWorld,How Aboriginal Australians forged tools from early British ships https://t.co/CuvibhS3kb
+526,0.0,2018-04-01 00:58:25,0.0,1.0,0.0,BBCWorld,Nigerian senator salary calculator: How do you compare? https://t.co/SyWa071zJQ
+527,-0.4767,2018-04-01 00:53:11,0.256,0.744,0.0,BBCWorld,The country where the British are blamed for everything https://t.co/WKlL7puhTi
+528,-0.5574,2018-04-01 00:45:50,0.31,0.69,0.0,BBCWorld,India's Gorakhpur hospital: The night the children died https://t.co/RVKrDG7My0
+529,0.4215,2018-04-01 00:26:42,0.0,0.763,0.237,BBCWorld,The 83-year-old lingerie model with a powerful message about ageing https://t.co/yXUWOi6h9A
+530,-0.6124,2018-04-01 00:12:27,0.5,0.5,0.0,BBCWorld,Skripal poisoning: Russian diplomats leave Washington https://t.co/XbjPHdu9WC
+531,-0.8225,2018-03-31 23:59:35,0.489,0.511,0.0,BBCWorld,Syria war: 'Deal struck' to take critically injured out of Douma https://t.co/rxrPzldruh
+532,-0.8555,2018-03-31 22:32:48,0.54,0.46,0.0,BBCWorld,Mali jihadist faces war crimes charges at International Criminal Court https://t.co/S9jP4zK1lS
+533,0.5719,2018-03-31 22:06:25,0.0,0.684,0.316,BBCWorld,In pictures: Christians celebrate Easter around the world https://t.co/L3dNNyDAJi
+534,-0.5994,2018-03-31 21:15:33,0.358,0.642,0.0,BBCWorld,French fairground ride hurls man to death https://t.co/bT1hIFLmpN
+535,0.0,2018-03-31 21:05:46,0.0,1.0,0.0,BBCWorld,Mount Everest: Sherpa to attempt record 22nd climb https://t.co/EeYVMBm9Kq
+536,0.0,2018-03-31 20:29:45,0.0,1.0,0.0,BBCWorld,Sri Lankan navy refloats WW2 ship https://t.co/VA0ndRRrnZ
+537,0.0,2018-03-31 18:40:18,0.0,1.0,0.0,BBCWorld,New footage emerges of the lead up to the 2016 police shooting of Alton Sterling https://t.co/5J8TDTNaAr
+538,0.0,2018-03-31 18:28:00,0.0,1.0,0.0,BBCWorld,Rhino census in India's Kaziranga park counts 12 more https://t.co/mEBe2fqFTo
+539,-0.296,2018-03-31 18:18:54,0.274,0.566,0.16,BBCWorld,Donald Trump steps up attacks on Amazon https://t.co/2Z3qwpi0cZ
+540,0.0,2018-04-02 09:33:04,0.0,1.0,0.0,CBSNews,"New Yorker turns garbage into art, and turns his home into a museum https://t.co/XQ1oaN9AdT https://t.co/BRKdkdHhvD"
+541,0.4939,2018-04-02 09:18:03,0.0,0.802,0.198,CBSNews,Preservationists race to save old shipwreck battered by waves on Florida beach https://t.co/lIbmZ273iL https://t.co/jbBassIYM7
+542,-0.4404,2018-04-02 09:12:04,0.209,0.791,0.0,CBSNews,Frantic search for teen who apparently fell into sewage pipe https://t.co/653vg2bufj https://t.co/ZamIDYWj4d
+543,-0.6249,2018-04-02 09:03:04,0.24,0.76,0.0,CBSNews,"U.N. refugee chief says there are ""not enough"" resources to tackle crisis https://t.co/BmYjwxEUfH https://t.co/gFXlr6rgbE"
+544,-0.4939,2018-04-02 08:48:04,0.225,0.775,0.0,CBSNews,Instruments stolen from Bruce Springsteen's E Street Band guitarist Nils Lofgren https://t.co/iJ1TLkGcrj https://t.co/aXhUj29VrH
+545,0.4939,2018-04-02 08:33:04,0.0,0.814,0.186,CBSNews,Teens begin 50-mile march to Memphis in honor of Martin Luther King Jr. https://t.co/20OCE6aWD4 https://t.co/kwnUOhA2pF
+546,0.0,2018-04-02 08:18:04,0.0,1.0,0.0,CBSNews,"John Krasinski &amp; Emily Blunt find ""A Quiet Place"" together https://t.co/1VWJWMVUOO https://t.co/eVrldqEmc9"
+547,-0.1531,2018-04-02 08:03:04,0.281,0.548,0.171,CBSNews,"Trey Gowdy: Congressional investigations ""leak like the Gossip Girls"" https://t.co/klQ3uDSXNz https://t.co/owHNBaxWnb"
+548,0.4404,2018-04-02 07:48:04,0.0,0.775,0.225,CBSNews,How a stranger's plea turned into a friendship and a publishing enterprise https://t.co/iDYpvLUAn2 https://t.co/G66dw0mBFn
+549,-0.1027,2018-04-02 07:33:03,0.097,0.903,0.0,CBSNews,China imposing new tariffs on U.S. products in retaliation of Trump tariffs https://t.co/G2SFtYn2AH https://t.co/62i7oiiYu7
+550,-0.765,2018-04-02 07:18:03,0.423,0.577,0.0,CBSNews,Marymount University student taken into custody after bomb threat https://t.co/54VSXNnmPT https://t.co/5XESMQUHFe
+551,0.296,2018-04-02 07:03:05,0.0,0.872,0.128,CBSNews,"Sen. Tim Scott says he would be ""disappointed"" if President Trump pardons Paul Manafort https://t.co/JqMS2J6K4o https://t.co/LdpI12LyMK"
+552,0.765,2018-04-02 06:48:04,0.0,0.645,0.355,CBSNews,"Sen. Tim Scott says polarization one of the ""greatest national security issues"" https://t.co/1ZwD4R907H https://t.co/mRCGOJfCcX"
+553,0.4939,2018-04-02 06:33:04,0.0,0.814,0.186,CBSNews,Teens begin 50-mile march to Memphis in honor of Martin Luther King Jr. https://t.co/20OCE6aWD4 https://t.co/K54jSt2PQW
+554,0.7351,2018-04-02 06:18:03,0.0,0.592,0.408,CBSNews,"How ""Ready Player One"" author Ernie Cline finally won https://t.co/bi2MxVKfJq https://t.co/ZRDuu0H77S"
+555,0.0,2018-04-02 06:03:04,0.0,1.0,0.0,CBSNews,"""Frozen"" songwriters Bobby and Kristen Lopez: Collaborators for life https://t.co/05Y4x7JeWb https://t.co/vubeSwHi1x"
+556,-0.3612,2018-04-02 05:48:03,0.2,0.8,0.0,CBSNews,Overload: How technology is bringing us too much information https://t.co/bA7mzYgQXD https://t.co/OYc2JPIW8G
+557,0.1779,2018-04-02 05:33:03,0.0,0.855,0.145,CBSNews,"Amazon, Google patent applications hint at devices listening more https://t.co/3U2TXTff4Y https://t.co/6lLyHCDXxQ"
+558,-0.7096,2018-04-02 05:18:04,0.357,0.516,0.127,CBSNews,"""Palm Sunday Massacre"" killer Christopher Thomas freed after 34 years in prison https://t.co/d5sMp3n1yQ https://t.co/I752bC75KQ"
+559,-0.4588,2018-04-02 05:03:05,0.231,0.769,0.0,CBSNews,Video shows man attacking Muslim woman at Detroit hospital https://t.co/xkK7lk1jvg https://t.co/jOjGslQp7x
+560,0.0,2018-04-02 09:41:02,0.0,1.0,0.0,CNN,Why the universe shouldn't exist at all https://t.co/8QmK9ITNGT | via @CNNOpinion https://t.co/e3OHexyGdd
+561,0.6369,2018-04-02 09:30:07,0.0,0.682,0.318,CNN,The best travel photos of 2018 (so far) https://t.co/oVI1jDYYt9 https://t.co/wKUqly1OA9
+562,0.3818,2018-04-02 09:00:09,0.114,0.669,0.217,CNN,"""We're just scared of the water..."" Welcome to Martin County, Kentucky, where the tap water smells like diesel fuel… https://t.co/8p7x5I3FcJ"
+563,-0.5106,2018-04-02 08:41:29,0.202,0.798,0.0,CNN,This ancient Chinese art was at risk of becoming obsolete. Here's how Dragon scale bookbinding is being resurrected… https://t.co/5aFfIjJBGk
+564,0.0,2018-04-02 08:30:14,0.0,1.0,0.0,CNN,He’s an algebra teacher in Oklahoma. And a bus driver. And a Little League umpire. And he drives for Uber and Lyft.… https://t.co/78QKY3wZSM
+565,0.2263,2018-04-02 08:15:09,0.0,0.913,0.087,CNN,"The Chinese government said that tariffs on about $3 billion worth of US imports are going into effect Monday, hitt… https://t.co/5m441H8Ui4"
+566,-0.4588,2018-04-02 08:07:01,0.25,0.75,0.0,CNN,Destroyer with a history shows US flag in Pacific https://t.co/I9JA2PIOYa https://t.co/8Fd5Z2wF2F
+567,0.6808,2018-04-02 08:00:06,0.0,0.781,0.219,CNN,This 17-year-old applied to 20 of the best universities in the US and was admitted to every single one with a full… https://t.co/yrqLCUsLbL
+568,0.0,2018-04-02 07:49:21,0.0,1.0,0.0,CNN,"A family SUV found at the bottom of a California cliff last week may have been deliberately driven off the road, po… https://t.co/5sjxhqQzIz"
+569,0.0,2018-04-02 07:38:01,0.0,1.0,0.0,CNN,This photographer captures wacky Japanese public toilets https://t.co/G7U0SGmmBq via @CNNTravel https://t.co/NABwM7m3Vf
+570,-0.0865,2018-04-02 07:30:09,0.133,0.748,0.119,CNN,"Hackers have stolen information for more than 5 million credit and debit cards used at Saks Fifth Avenue, Saks Off… https://t.co/jP8a2nCGFf"
+571,0.0,2018-04-02 07:17:12,0.0,1.0,0.0,CNN,"The Tiangong-1 space lab re-entered Earth's atmosphere Monday morning, landing in the middle of the South Pacific,… https://t.co/uEWZwOLhRs"
+572,0.1779,2018-04-02 07:09:39,0.0,0.884,0.116,CNN,"Trump presidential campaign spent more than $150,000 on Amazon, CBS News reports https://t.co/TcXrUzbAY1 https://t.co/FypD6mWHY3"
+573,0.0772,2018-04-02 07:00:36,0.0,0.92,0.08,CNN,"New book alleges Kellyanne Conway is the ""number one leaker"" in President Trump's White House… https://t.co/hWgsCbbrQs"
+574,-0.3182,2018-04-02 06:56:04,0.17,0.717,0.112,CNN,British authorities examining the poisoning of former Russian spy Sergei Skripal believe the daring placement of th… https://t.co/XycQPUbRON
+575,0.5423,2018-04-02 06:48:42,0.0,0.8,0.2,CNN,"Russian President Vladimir Putin unleashes ""Satan 2"" missile in a blaze of glory https://t.co/K7jJXrAQKp (via… https://t.co/WDMtAmo2ak"
+576,-0.296,2018-04-02 06:30:08,0.115,0.885,0.0,CNN,President Trump says there will be no deal with Democrats to legalize thousands of undocumented immigrants brought… https://t.co/5HFyQleGOi
+577,0.0,2018-04-02 06:26:50,0.0,1.0,0.0,CNN,"Kim Jong Un was ""deeply moved"" by a K-pop concert in Pyongyang, where South Korean musicians were allowed to travel… https://t.co/NpFgG6tJGl"
+578,0.0,2018-04-02 06:14:05,0.0,1.0,0.0,CNN,Their journey north sparked a Trump tweetstorm https://t.co/AbdtfWLVJ4 https://t.co/IGlfU3WC4F
+579,0.3818,2018-04-02 06:00:18,0.114,0.669,0.217,CNN,"""We're just scared of the water..."" Welcome to Martin County, Kentucky, where the tap water smells like diesel fuel… https://t.co/az0J7250zn"
+580,0.0,2018-04-02 09:33:04,0.0,1.0,0.0,CBSNews,"New Yorker turns garbage into art, and turns his home into a museum https://t.co/XQ1oaN9AdT https://t.co/BRKdkdHhvD"
+581,0.4939,2018-04-02 09:18:03,0.0,0.802,0.198,CBSNews,Preservationists race to save old shipwreck battered by waves on Florida beach https://t.co/lIbmZ273iL https://t.co/jbBassIYM7
+582,-0.4404,2018-04-02 09:12:04,0.209,0.791,0.0,CBSNews,Frantic search for teen who apparently fell into sewage pipe https://t.co/653vg2bufj https://t.co/ZamIDYWj4d
+583,-0.6249,2018-04-02 09:03:04,0.24,0.76,0.0,CBSNews,"U.N. refugee chief says there are ""not enough"" resources to tackle crisis https://t.co/BmYjwxEUfH https://t.co/gFXlr6rgbE"
+584,-0.4939,2018-04-02 08:48:04,0.225,0.775,0.0,CBSNews,Instruments stolen from Bruce Springsteen's E Street Band guitarist Nils Lofgren https://t.co/iJ1TLkGcrj https://t.co/aXhUj29VrH
+585,0.4939,2018-04-02 08:33:04,0.0,0.814,0.186,CBSNews,Teens begin 50-mile march to Memphis in honor of Martin Luther King Jr. https://t.co/20OCE6aWD4 https://t.co/kwnUOhA2pF
+586,0.0,2018-04-02 08:18:04,0.0,1.0,0.0,CBSNews,"John Krasinski &amp; Emily Blunt find ""A Quiet Place"" together https://t.co/1VWJWMVUOO https://t.co/eVrldqEmc9"
+587,-0.1531,2018-04-02 08:03:04,0.281,0.548,0.171,CBSNews,"Trey Gowdy: Congressional investigations ""leak like the Gossip Girls"" https://t.co/klQ3uDSXNz https://t.co/owHNBaxWnb"
+588,0.4404,2018-04-02 07:48:04,0.0,0.775,0.225,CBSNews,How a stranger's plea turned into a friendship and a publishing enterprise https://t.co/iDYpvLUAn2 https://t.co/G66dw0mBFn
+589,-0.1027,2018-04-02 07:33:03,0.097,0.903,0.0,CBSNews,China imposing new tariffs on U.S. products in retaliation of Trump tariffs https://t.co/G2SFtYn2AH https://t.co/62i7oiiYu7
+590,-0.765,2018-04-02 07:18:03,0.423,0.577,0.0,CBSNews,Marymount University student taken into custody after bomb threat https://t.co/54VSXNnmPT https://t.co/5XESMQUHFe
+591,0.296,2018-04-02 07:03:05,0.0,0.872,0.128,CBSNews,"Sen. Tim Scott says he would be ""disappointed"" if President Trump pardons Paul Manafort https://t.co/JqMS2J6K4o https://t.co/LdpI12LyMK"
+592,0.765,2018-04-02 06:48:04,0.0,0.645,0.355,CBSNews,"Sen. Tim Scott says polarization one of the ""greatest national security issues"" https://t.co/1ZwD4R907H https://t.co/mRCGOJfCcX"
+593,0.4939,2018-04-02 06:33:04,0.0,0.814,0.186,CBSNews,Teens begin 50-mile march to Memphis in honor of Martin Luther King Jr. https://t.co/20OCE6aWD4 https://t.co/K54jSt2PQW
+594,0.7351,2018-04-02 06:18:03,0.0,0.592,0.408,CBSNews,"How ""Ready Player One"" author Ernie Cline finally won https://t.co/bi2MxVKfJq https://t.co/ZRDuu0H77S"
+595,0.0,2018-04-02 06:03:04,0.0,1.0,0.0,CBSNews,"""Frozen"" songwriters Bobby and Kristen Lopez: Collaborators for life https://t.co/05Y4x7JeWb https://t.co/vubeSwHi1x"
+596,-0.3612,2018-04-02 05:48:03,0.2,0.8,0.0,CBSNews,Overload: How technology is bringing us too much information https://t.co/bA7mzYgQXD https://t.co/OYc2JPIW8G
+597,0.1779,2018-04-02 05:33:03,0.0,0.855,0.145,CBSNews,"Amazon, Google patent applications hint at devices listening more https://t.co/3U2TXTff4Y https://t.co/6lLyHCDXxQ"
+598,-0.7096,2018-04-02 05:18:04,0.357,0.516,0.127,CBSNews,"""Palm Sunday Massacre"" killer Christopher Thomas freed after 34 years in prison https://t.co/d5sMp3n1yQ https://t.co/I752bC75KQ"
+599,-0.4588,2018-04-02 05:03:05,0.231,0.769,0.0,CBSNews,Video shows man attacking Muslim woman at Detroit hospital https://t.co/xkK7lk1jvg https://t.co/jOjGslQp7x
